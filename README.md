@@ -4,11 +4,12 @@
 
 <br/>
 
-[![portfolio](https://img.shields.io/badge/portfolio-sharann.dev-f4f4f2?style=flat-square&labelColor=333333b&color=222222)](https://sharann.dev)
-[![resume](https://img.shields.io/badge/resume-pdf-f4f4f2?style=flat-square&labelColor=333333&color=222222)](https://sharann.dev/Resume.pdf)
-[![linkedin](https://img.shields.io/badge/linkedin-sharannm-f4f4f2?style=flat-square&logo=linkedin&logoColor=f4f4f2&labelColor=333333&color=222222)](https://linkedin.com/in/sharannm)
-[![x](https://img.shields.io/badge/x-@m__sharann-f4f4f2?style=flat-square&logo=x&logoColor=f4f4f2&labelColor=333333&color=222222)](https://x.com/m_sharann)
-[![email](https://img.shields.io/badge/email-reach_out-f4f4f2?style=flat-square&logo=gmail&logoColor=f4f4f2&labelColor=333333&color=222222)](mailto:sharannmanojkumar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sharann.dev-6C63FF?style=for-the-badge\&labelColor=1A1A1A)](https://sharann.dev)
+[![Resume](https://img.shields.io/badge/📄_Resume-PDF-EA4C89?style=for-the-badge\&labelColor=1A1A1A)](https://sharann.dev/Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharannm-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=1A1A1A)](https://linkedin.com/in/sharannm)
+[![X](https://img.shields.io/badge/X-@m__sharann-FFFFFF?style=for-the-badge\&logo=x\&logoColor=black\&labelColor=1A1A1A)](https://x.com/m_sharann)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge\&logo=gmail\&logoColor=white\&labelColor=1A1A1A)](mailto:sharannmanojkumar@gmail.com)
+
 
 </div>
 
