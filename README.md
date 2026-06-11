@@ -2,11 +2,11 @@
 
 ![Sharann Manojkumar](assets/header.svg)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-transparent?style=flat-square&logoColor=888888)](https://sharann.dev)
-[![Resume](https://img.shields.io/badge/RESUME-transparent?style=flat-square&logo=adobeacrobatreader&logoColor=888888)](https://sharann.dev/Resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-transparent?style=flat-square&logo=linkedin&logoColor=888888)](https://linkedin.com/in/sharannm)
-[![X](https://img.shields.io/badge/X-transparent?style=flat-square&logo=x&logoColor=888888)](https://x.com/m_sharann)
-[![Email](https://img.shields.io/badge/EMAIL-transparent?style=flat-square&logo=gmail&logoColor=888888)](mailto:sharannmanojkumar@gmail.com)
+<a href="https://sharann.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logoColor=aaaaaa"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=555555" alt="Portfolio"/></picture></a>
+<a href="https://sharann.dev/Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RESUME-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=aaaaaa"/><img src="https://img.shields.io/badge/RESUME-ffffff?style=flat-square&logo=adobeacrobatreader&logoColor=555555" alt="Resume"/></picture></a>
+<a href="https://linkedin.com/in/sharannm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=aaaaaa"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=555555" alt="LinkedIn"/></picture></a>
+<a href="https://x.com/m_sharann"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=aaaaaa"/><img src="https://img.shields.io/badge/X-ffffff?style=flat-square&logo=x&logoColor=555555" alt="X"/></picture></a>
+<a href="mailto:sharannmanojkumar@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=aaaaaa"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=555555" alt="Email"/></picture></a>
 
 </div>
 
@@ -186,17 +186,17 @@ Real-time WPM and accuracy tracking, instant feedback, and a distraction-free TU
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sharann-del&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharann-del&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=555555&icon_color=000000&include_all_commits=true&count_private=true" height="170" alt="GitHub stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sharann-del&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharann-del&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&icon_color=000000&include_all_commits=true&count_private=true" height="170" alt="GitHub stats"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharann-del&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=8"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharann-del&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=555555&langs_count=8" height="170" alt="Top languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharann-del&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharann-del&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&langs_count=8" height="170" alt="Top languages"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=00000000&color=888888&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=contribution+graph"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=00000000&color=555555&line=000000&point=000000&area_color=000000&area=true&hide_border=true&custom_title=contribution+graph" width="97%" alt="Contribution graph"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=contribution+graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=ffffff&color=555555&line=000000&point=000000&area_color=000000&area=true&hide_border=true&custom_title=contribution+graph" width="97%" alt="Contribution graph"/>
 </picture>
 
 </div>
