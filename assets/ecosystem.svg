@@ -6,8 +6,8 @@
     }
     @media (prefers-color-scheme: dark) {
       :root {
-        --bone: #EFEFEF; --muted: #888888; --dim: #555555; --rule: #2E2E2E;
-        --node-bg: #111111; --node-bd: #2A2A2A; --core-bg: #1A1A1A; --core-bd: #FFFFFF; --accent: #FFFFFF;
+        --bone: #EFEFEF; --muted: #AAAAAA; --dim: #777777; --rule: #3C3C3C;
+        --node-bg: #111111; --node-bd: #3A3A3A; --core-bg: #1A1A1A; --core-bd: #FFFFFF; --accent: #FFFFFF;
       }
     }
     .mono { font-family: "Inter", ui-sans-serif, system-ui, -apple-system, sans-serif; }

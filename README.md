@@ -2,11 +2,11 @@
 
 ![Sharann Manojkumar](assets/header.svg)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logoColor=ffffff)](https://sharann.dev)
-[![Resume](https://img.shields.io/badge/RESUME-000000?style=flat-square&logo=adobeacrobatreader&logoColor=ffffff)](https://sharann.dev/Resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/sharannm)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=ffffff)](https://x.com/m_sharann)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:sharannmanojkumar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-transparent?style=flat-square&logoColor=888888)](https://sharann.dev)
+[![Resume](https://img.shields.io/badge/RESUME-transparent?style=flat-square&logo=adobeacrobatreader&logoColor=888888)](https://sharann.dev/Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-transparent?style=flat-square&logo=linkedin&logoColor=888888)](https://linkedin.com/in/sharannm)
+[![X](https://img.shields.io/badge/X-transparent?style=flat-square&logo=x&logoColor=888888)](https://x.com/m_sharann)
+[![Email](https://img.shields.io/badge/EMAIL-transparent?style=flat-square&logo=gmail&logoColor=888888)](mailto:sharannmanojkumar@gmail.com)
 
 </div>
 
@@ -24,7 +24,7 @@ clubs     iSpace Club — Web & App Development department
 
 ![02 — system map](assets/s02.svg)
 
-Nine projects, four platforms, one pipeline. Every node is a real, working system.
+Ten projects, four platforms, one pipeline. Every node is a real, working system.
 
 ![System map](assets/ecosystem.svg)
 
@@ -46,6 +46,8 @@ Schema-free JSONB storage, Monaco editor views, live integrations with GitHub, N
 
 [**live ↗**](https://kern-alpha.vercel.app/) · [code](https://github.com/Sharann-del/Kern)
 
+<br>
+
 </td>
 <td width="50%" valign="top">
 
@@ -56,6 +58,8 @@ Schema-free JSONB storage, Monaco editor views, live integrations with GitHub, N
 `Node.js` `OpenRouter` `TUI` `Supabase`
 
 [**live ↗**](https://cosmos-tui.app) · [code](https://github.com/Sharann-del/Cosmos)
+
+<br>
 
 </td>
 </tr>
@@ -70,6 +74,8 @@ FastAPI backend ingests orthomosaic GeoTIFFs and derives NDVI-based insights, pl
 
 [code](https://github.com/Sharann-del/Landroid)
 
+<br>
+
 </td>
 <td width="50%" valign="top">
 
@@ -80,6 +86,8 @@ Unified academic platform for VIT students — attendance tracking, timetable ma
 `React` `Node.js` `TypeScript` `PostgreSQL`
 
 [code](https://github.com/Sharann-del/Student-Dashboard-WP)
+
+<br>
 
 </td>
 </tr>
@@ -94,6 +102,8 @@ Every node is a task or sub-problem. Recurse down, solve, backtrack — structur
 
 [code](https://github.com/Sharann-del/Arbor)
 
+<br>
+
 </td>
 <td width="50%" valign="top">
 
@@ -104,6 +114,8 @@ Native iOS app that connects to Notion databases and renders custom home screen 
 `Swift` `SwiftUI` `WidgetKit` `Notion API`
 
 [code](https://github.com/Sharann-del/NotionWidgets)
+
+<br>
 
 </td>
 </tr>
@@ -118,6 +130,8 @@ Productivity-focused planner in SwiftUI — task scheduling, deadlines, prioriti
 
 [code](https://github.com/Sharann-del/Planner)
 
+<br>
+
 </td>
 <td width="50%" valign="top">
 
@@ -128,6 +142,8 @@ Organize thoughts, projects, and life in one place — rich documents, databases
 `TypeScript` `React` `PostgreSQL`
 
 [code](https://github.com/Sharann-del/Lobe)
+
+<br>
 
 </td>
 </tr>
@@ -142,8 +158,21 @@ Dynamic customer sales, multi-product invoices, automatic totals, structured bac
 
 [code](https://github.com/Sharann-del/Billing-System)
 
+<br>
+
 </td>
 <td width="50%" valign="top">
+
+### TerminalType
+**Monkeytype for your terminal.**
+Real-time WPM and accuracy tracking, instant feedback, and a distraction-free TUI — for developers who want typing practice without leaving the CLI.
+
+`Node.js` `JavaScript` `TUI` `CLI`
+
+[code](https://github.com/Sharann-del/terminaltype)
+
+<br>
+
 </td>
 </tr>
 </table>
@@ -157,17 +186,17 @@ Dynamic customer sales, multi-product invoices, automatic totals, structured bac
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sharann-del&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharann-del&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&icon_color=000000&include_all_commits=true&count_private=true" height="170" alt="GitHub stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sharann-del&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharann-del&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=555555&icon_color=000000&include_all_commits=true&count_private=true" height="170" alt="GitHub stats"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharann-del&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=8"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharann-del&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&langs_count=8" height="170" alt="Top languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharann-del&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharann-del&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=555555&langs_count=8" height="170" alt="Top languages"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=000000&color=888888&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=contribution+graph"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=ffffff&color=555555&line=000000&point=000000&area_color=000000&area=true&hide_border=true&custom_title=contribution+graph" width="97%" alt="Contribution graph"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=00000000&color=888888&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=contribution+graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=00000000&color=555555&line=000000&point=000000&area_color=000000&area=true&hide_border=true&custom_title=contribution+graph" width="97%" alt="Contribution graph"/>
 </picture>
 
 </div>

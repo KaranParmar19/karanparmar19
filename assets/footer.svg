@@ -1,7 +1,7 @@
 <svg viewBox="0 0 1000 110" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Status: building. Chennai, India. sharann.dev">
   <style>
     :root { --bone: #1A1A1A; --muted: #666666; --rule: #D1D1D1; --accent: #0D0D0D; }
-    @media (prefers-color-scheme: dark) { :root { --bone: #EFEFEF; --muted: #888888; --rule: #2E2E2E; --accent: #FFFFFF; } }
+    @media (prefers-color-scheme: dark) { :root { --bone: #EFEFEF; --muted: #AAAAAA; --rule: #3C3C3C; --accent: #FFFFFF; } }
     .mono { font-family: "Inter", ui-sans-serif, system-ui, -apple-system, sans-serif; }
     .serif { font-family: "Inter Display", ui-sans-serif, system-ui, -apple-system, sans-serif; }
     .draw { stroke: var(--rule); stroke-width: 1; stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: d 1.6s cubic-bezier(.6,0,.2,1) forwards; }

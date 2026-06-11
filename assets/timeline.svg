@@ -1,7 +1,7 @@
 <svg viewBox="0 0 1000 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Timeline: 2020 first commit, 2024 VIT Chennai and iSpace Club, 2025 GeoPacific internship, now open to internships">
   <style>
     :root { --bone: #1A1A1A; --muted: #666666; --dim: #999999; --rule: #D1D1D1; --accent: #0D0D0D; }
-    @media (prefers-color-scheme: dark) { :root { --bone: #EFEFEF; --muted: #888888; --dim: #555555; --rule: #2E2E2E; --accent: #FFFFFF; } }
+    @media (prefers-color-scheme: dark) { :root { --bone: #EFEFEF; --muted: #AAAAAA; --dim: #777777; --rule: #3C3C3C; --accent: #FFFFFF; } }
     .mono { font-family: "Inter", ui-sans-serif, system-ui, -apple-system, sans-serif; }
     .serif { font-family: "Inter Display", ui-sans-serif, system-ui, -apple-system, sans-serif; }
     .axis { stroke: var(--rule); stroke-width: 1; stroke-dasharray: 910; stroke-dashoffset: 910; animation: draw 2.4s cubic-bezier(.6,0,.2,1) forwards; }
