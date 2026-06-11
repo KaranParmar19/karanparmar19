@@ -1,65 +1,125 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Sharann Manojkumar — iOS, Full-Stack & Terminal UI Developer"/>
+![Sharann Manojkumar — iOS, Full-Stack & Terminal UI Developer](assets/header.svg)
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://sharann.dev)
-[![Resume](https://img.shields.io/badge/Resume-EC4899?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://sharann.dev/Resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharannm)
-[![X](https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=white)](https://x.com/m_sharann)
-[![Email](https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharannmanojkumar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-C8A84B?style=flat-square&logoColor=0B0B0D&labelColor=C8A84B&color=C8A84B)](https://sharann.dev)
+[![Resume](https://img.shields.io/badge/RESUME-0B0B0D?style=flat-square&logo=adobeacrobatreader&logoColor=EDEAE2)](https://sharann.dev/Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B0B0D?style=flat-square&logo=linkedin&logoColor=EDEAE2)](https://linkedin.com/in/sharannm)
+[![X](https://img.shields.io/badge/X-0B0B0D?style=flat-square&logo=x&logoColor=EDEAE2)](https://x.com/m_sharann)
+[![Email](https://img.shields.io/badge/EMAIL-0B0B0D?style=flat-square&logo=gmail&logoColor=EDEAE2)](mailto:sharannmanojkumar@gmail.com)
 
 </div>
 
+<br>
+
 ## `❯ whoami`
 
-I build across the whole stack — **SwiftUI interfaces**, **React frontends**, **PostgreSQL schemas**, and **Node.js backends** — and I'm drawn to the place where *design meets data*: keyboard-driven personal operating systems, drone-powered land analytics, AI terminal assistants.
+I build software at the intersection of **design and data** — native SwiftUI apps, full-stack systems on PostgreSQL, and terminal interfaces that feel better than most GUIs. The throughline: tools that turn personal chaos into structure, usually keyboard-first, always dark mode.
 
-CS @ **VIT Chennai** · 2024–2028 · member of the **iSpace Club** web/app dev department · open-source contributor to [**MonkeyType**](https://github.com/monkeytypegame/monkeytype). I care about clean architecture and how software *feels* to use, in equal measure.
+CS @ **VIT Chennai** · ’24–’28 — currently doing **AI hallucination–suppression research** (SRIP 2026) and shipping side projects faster than I can name them. Open-source contributor to [**MonkeyType**](https://github.com/monkeytypegame/monkeytype).
 
 ```text
-focus    iOS & Mobile · Full-Stack Systems · Terminal UI / CLI · AI-native architecture
-location Chennai, India
-status   open to internships, freelance, and collaboration
+focus     iOS & Mobile · Full-Stack Systems · Terminal UI / CLI · AI-native architecture
+research  hallucination suppression in LLMs — SRIP 2026, VIT Chennai
+status    open to internships, freelance, and collaboration
 ```
 
-## `❯ ls ~/projects`
+<br>
 
-| Project | What it is | Stack | Links |
-|---|---|---|---|
-| **Kern** | Keyboard-driven personal **data OS** — schema-free JSONB storage, Monaco editor views, and live integrations (GitHub, Notion, Calendar, Linear, RSS). Ships an **MCP server** for AI interaction with your data. | `React` `TypeScript` `PostgreSQL` `Supabase` `MCP` | [live](https://kern-alpha.vercel.app/) · [code](https://github.com/Sharann-del/Kern) |
-| **Cosmos** | A full **AI chatbot that lives in your terminal** — 25+ free models via OpenRouter, cloud-synced history across devices, file attachments, rich Markdown output. | `Node.js` `OpenRouter` `TUI` `Supabase` | [live](https://cosmos-tui.app) · [code](https://github.com/Sharann-del/Cosmos) |
-| **Landroid** | Land-management platform driven by **drone orthomosaic imagery (GeoTIFF)**. A FastAPI backend derives NDVI insights, plant-health zone maps, tree-count estimates and overlay PNGs. | `Flutter` `FastAPI` `Python` `Supabase` `PostGIS` | [code](https://github.com/Sharann-del/Landroid) |
-| **Lobe** | Personal **knowledge OS** for the web — rich documents, databases, calendar views, kanban boards, and a full mind-map of everything you've built. | `TypeScript` `React` `PostgreSQL` | [code](https://github.com/Sharann-del/Lobe) |
-| **Arbor** | Visualizes problem-solving as a hierarchical tree — each node a task or sub-problem, enabling structured reasoning and backtracking. | `React` `TypeScript` `React Flow` `OpenAI API` | [code](https://github.com/Sharann-del/Arbor) |
-| **Student Dashboard** | Unified academic platform for VIT students — attendance, timetable and planning consolidated from fragmented institutional systems. | `React` `Node.js` `TypeScript` `PostgreSQL` | [code](https://github.com/Sharann-del/Student-Dashboard-WP) |
-| **NotionWidgets** | Native iOS app that connects to Notion databases and renders custom home-screen widgets with smart filtering. | `Swift` `SwiftUI` `WidgetKit` `Notion API` | [code](https://github.com/Sharann-del/NotionWidgets) |
-| **Planner** | Productivity-focused planner in SwiftUI — scheduling, deadlines, prioritization, clean visual organization. | `Swift` `SwiftUI` `Core Data` | [code](https://github.com/Sharann-del/Planner) |
-| **terminaltype** | Terminal-based typing test inspired by MonkeyType — real-time WPM/accuracy in a clean TUI. | `JavaScript` `TUI` | [code](https://github.com/Sharann-del/terminaltype) |
-| **Billing System** | Full-stack billing & invoicing — dynamic multi-product invoices, automatic totals, reusable templates. | `Node.js` `TypeScript` `PostgreSQL` `Handlebars` | [code](https://github.com/Sharann-del/Billing-System) |
+## `❯ ls ~/flagship`
 
-## `❯ cat experience.txt`
+The three I’d show you first.
 
-**GeoPacific Solutions** — *Billing System Developer Intern* · Chennai · Mar 2025 – Jul 2025
+<table>
+<tr>
+<td width="33%" valign="top">
 
-Built a full-stack billing and inventory platform from scratch, focused on scalable architecture and flexible storage.
+### Kern
 
-```diff
-+ JSONB-based PostgreSQL schema for flexible product storage + dynamic invoice generation.
-+ Role-based access (JWT) across admin / franchise / cashier with fine-grained permissions.
-+ RESTful APIs in Node.js + Express — invoice lifecycle, inventory, reporting endpoints.
-+ TypeScript-first codebase for type safety across every model and API contract.
+**A keyboard-driven personal data OS.**
+Schema-free JSONB storage, Monaco editor views, live integrations (GitHub · Notion · Calendar · Linear · RSS) — and its own **MCP server**, so AI can read and write your data natively.
+
+`React` `TypeScript` `PostgreSQL` `MCP`
+
+[**live ↗**](https://kern-alpha.vercel.app/) · [code](https://github.com/Sharann-del/Kern)
+
+</td>
+<td width="33%" valign="top">
+
+### Cosmos
+
+**An AI chatbot that lives in your terminal.**
+25+ free models via OpenRouter, cloud-synced history across devices, file attachments, rich Markdown — installable in one command, at home in any tmux pane.
+
+`Node.js` `OpenRouter` `TUI` `Supabase`
+
+[**live ↗**](https://cosmos-tui.app) · [code](https://github.com/Sharann-del/Cosmos)
+
+</td>
+<td width="33%" valign="top">
+
+### Landroid
+
+**Drone imagery → land intelligence.**
+A FastAPI backend ingests orthomosaic GeoTIFFs and derives NDVI insights, plant-health zone maps, and tree-count estimates for real farmland.
+
+`Flutter` `FastAPI` `PostGIS` `Python`
+
+[code](https://github.com/Sharann-del/Landroid)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+![now](assets/now.svg)
+
+<br>
+
+## `❯ ls ~/projects --all`
+
+|Project              |One line                                                                                                                                                     |Stack                              |
+|:--------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------|
+|**Amoeba** `building`|A Go CLI coding agent that **prompts itself** — you send the first message, it generates every prompt after, until `DONE`.                                   |`Go` `CLI`                         |
+|**Forge** `building` |Native desktop app that compiles a software *idea* into a deployable codebase via a dynamic multi-agent system.                                              |`Tauri` `Next.js` `Python`         |
+|**Lobe**             |A personal knowledge OS — documents, databases, kanban, and a mind-map of everything you’ve built. — [code](https://github.com/Sharann-del/Lobe)             |`React` `TypeScript` `PostgreSQL`  |
+|**Arbor**            |Problem-solving as a hierarchical tree — every node a sub-problem, with structured reasoning and backtracking. — [code](https://github.com/Sharann-del/Arbor)|`React` `React Flow` `OpenAI`      |
+|**Student Dashboard**|Attendance, timetable, and planning for VIT students — one app instead of five broken portals. — [code](https://github.com/Sharann-del/Student-Dashboard-WP) |`React` `Node.js` `PostgreSQL`     |
+|**NotionWidgets**    |Native iOS widgets rendered straight from Notion databases, with smart filtering. — [code](https://github.com/Sharann-del/NotionWidgets)                     |`SwiftUI` `WidgetKit`              |
+|**Planner**          |A SwiftUI planner built around scheduling, deadlines, and clean visual organization. — [code](https://github.com/Sharann-del/Planner)                        |`SwiftUI` `Core Data`              |
+|**terminaltype**     |A MonkeyType-inspired typing test, entirely in the terminal — live WPM and accuracy. — [code](https://github.com/Sharann-del/terminaltype)                   |`JavaScript` `TUI`                 |
+|**Billing System**   |Full-stack invoicing — dynamic multi-product invoices, automatic totals, reusable templates. — [code](https://github.com/Sharann-del/Billing-System)         |`Node.js` `TypeScript` `PostgreSQL`|
+
+<br>
+
+## `❯ cat experience.log`
+
+```text
+2025 MAR — JUL   GeoPacific Solutions · Billing System Developer Intern · Chennai
+
+  + Built a full-stack billing & inventory platform from scratch.
+  + JSONB-based PostgreSQL schema → flexible product storage + dynamic invoices.
+  + Role-based access (JWT) across admin / franchise / cashier tiers.
+  + RESTful Node.js + Express APIs — invoice lifecycle, inventory, reporting.
+  + TypeScript-first across every model and API contract.
 ```
+
+<br>
 
 ## `❯ stack --grouped`
 
-| Domain | Tools |
-|---|---|
-| **Languages** <br/> <sub>typed, compiled & scripted</sub> | ![Swift](https://img.shields.io/badge/Swift-f4f4f2?style=flat-square&logo=swift&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![TypeScript](https://img.shields.io/badge/TypeScript-f4f4f2?style=flat-square&logo=typescript&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![JavaScript](https://img.shields.io/badge/JavaScript-f4f4f2?style=flat-square&logo=javascript&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![Python](https://img.shields.io/badge/Python-f4f4f2?style=flat-square&logo=python&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![Dart](https://img.shields.io/badge/Dart-f4f4f2?style=flat-square&logo=dart&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![C++](https://img.shields.io/badge/C++-f4f4f2?style=flat-square&logo=cplusplus&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) |
-| **Mobile** <br/> <sub>native iOS + cross-platform</sub> | ![SwiftUI](https://img.shields.io/badge/SwiftUI-f4f4f2?style=flat-square&logo=swift&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![WidgetKit](https://img.shields.io/badge/WidgetKit-f4f4f2?style=flat-square&labelColor=0c0c0e&color=141417) ![Flutter](https://img.shields.io/badge/Flutter-f4f4f2?style=flat-square&logo=flutter&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![Core Data](https://img.shields.io/badge/Core_Data-f4f4f2?style=flat-square&labelColor=0c0c0e&color=141417) |
-| **Web & Full-Stack** <br/> <sub>frontend to API</sub> | ![React](https://img.shields.io/badge/React-f4f4f2?style=flat-square&logo=react&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![Next.js](https://img.shields.io/badge/Next.js-f4f4f2?style=flat-square&logo=nextdotjs&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![Node.js](https://img.shields.io/badge/Node.js-f4f4f2?style=flat-square&logo=nodedotjs&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![Express](https://img.shields.io/badge/Express-f4f4f2?style=flat-square&logo=express&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![Tailwind](https://img.shields.io/badge/Tailwind-f4f4f2?style=flat-square&logo=tailwindcss&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![Vite](https://img.shields.io/badge/Vite-f4f4f2?style=flat-square&logo=vite&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) |
-| **Data & Backend** <br/> <sub>schemas, storage & spatial</sub> | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f4f4f2?style=flat-square&logo=postgresql&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![Supabase](https://img.shields.io/badge/Supabase-f4f4f2?style=flat-square&logo=supabase&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![FastAPI](https://img.shields.io/badge/FastAPI-f4f4f2?style=flat-square&logo=fastapi&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![SQLite](https://img.shields.io/badge/SQLite-f4f4f2?style=flat-square&logo=sqlite&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![Prisma](https://img.shields.io/badge/Prisma-f4f4f2?style=flat-square&logo=prisma&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![PostGIS](https://img.shields.io/badge/PostGIS-f4f4f2?style=flat-square&labelColor=0c0c0e&color=141417) ![JWT](https://img.shields.io/badge/JWT-f4f4f2?style=flat-square&logo=jsonwebtokens&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) |
-| **AI & Systems** <br/> <sub>models, agents & MCP</sub> | ![OpenRouter](https://img.shields.io/badge/OpenRouter-f4f4f2?style=flat-square&labelColor=0c0c0e&color=141417) ![OpenAI](https://img.shields.io/badge/OpenAI_API-f4f4f2?style=flat-square&logo=openai&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![MCP](https://img.shields.io/badge/MCP-f4f4f2?style=flat-square&labelColor=0c0c0e&color=141417) ![Tauri](https://img.shields.io/badge/Tauri-f4f4f2?style=flat-square&logo=tauri&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) |
-| **Tooling** <br/> <sub>ship & collaborate</sub> | ![Git](https://img.shields.io/badge/Git-f4f4f2?style=flat-square&logo=git&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![Docker](https://img.shields.io/badge/Docker-f4f4f2?style=flat-square&logo=docker&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![Figma](https://img.shields.io/badge/Figma-f4f4f2?style=flat-square&logo=figma&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![Notion](https://img.shields.io/badge/Notion-f4f4f2?style=flat-square&logo=notion&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) ![Postman](https://img.shields.io/badge/Postman-f4f4f2?style=flat-square&logo=postman&logoColor=f4f4f2&labelColor=0c0c0e&color=141417) |
+```text
+languages   Swift · TypeScript · JavaScript · Python · Go · Dart · C++
+mobile      SwiftUI · WidgetKit · Core Data · Flutter
+web         React · Next.js · Node.js · Express · Tailwind · Vite
+data        PostgreSQL · Supabase · FastAPI · PostGIS · Prisma · SQLite
+ai          MCP · OpenRouter · OpenAI API · agentic systems · Tauri
+tooling     Git · Docker · Figma · Notion · Postman · Neovim · Ghostty
+```
 
+<br>
+
+![status](assets/footer.svg)
+
+<!-- ❯ you read the source. respect. say hi: sharannmanojkumar@gmail.com -->
