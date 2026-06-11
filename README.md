@@ -2,11 +2,11 @@
 
 ![Sharann Manojkumar](assets/header.svg)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-C8A84B?style=flat-square&logoColor=0B0B0D)](https://sharann.dev)
-[![Resume](https://img.shields.io/badge/RESUME-0B0B0D?style=flat-square&logo=adobeacrobatreader&logoColor=EDEAE2)](https://sharann.dev/Resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B0B0D?style=flat-square&logo=linkedin&logoColor=EDEAE2)](https://linkedin.com/in/sharannm)
-[![X](https://img.shields.io/badge/X-0B0B0D?style=flat-square&logo=x&logoColor=EDEAE2)](https://x.com/m_sharann)
-[![Email](https://img.shields.io/badge/EMAIL-0B0B0D?style=flat-square&logo=gmail&logoColor=EDEAE2)](mailto:sharannmanojkumar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logoColor=ffffff)](https://sharann.dev)
+[![Resume](https://img.shields.io/badge/RESUME-000000?style=flat-square&logo=adobeacrobatreader&logoColor=ffffff)](https://sharann.dev/Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/sharannm)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=ffffff)](https://x.com/m_sharann)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:sharannmanojkumar@gmail.com)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 I build software at the intersection of **design and data** — native SwiftUI apps, full-stack systems on PostgreSQL, and terminal interfaces that feel better than most GUIs. The throughline: tools that turn personal chaos into structure. Keyboard-first. Always dark mode.
 
-CS @ **VIT Chennai** · '24–'28 — currently doing **AI hallucination–suppression research** (SRIP 2026) while shipping side projects faster than I can name them. Open-source contributor to [**MonkeyType**](https://github.com/monkeytypegame/monkeytype). Member of the **iSpace Club** web/app dev department.
+CS @ **VIT Chennai** · '24–'28 — currently doing **AI hallucination–suppression research** (SRIP 2026) while shipping side projects faster than I can name them. Also interning at **Ericsson**. Open-source contributor to [**MonkeyType**](https://github.com/monkeytypegame/monkeytype). Member of the **iSpace Club** web/app dev department.
 
 ```text
 focus     iOS & Mobile · Full-Stack Systems · Terminal UI / CLI · AI-native architecture
@@ -28,24 +28,28 @@ Twelve projects, four platforms, one pipeline. Every node below is a real, worki
 
 ![System map](assets/ecosystem.svg)
 
-![03 — flagship](assets/s03.svg)
+![now](assets/now.svg)
 
-The three I'd show you first.
+![03 — projects](assets/s03.svg)
+
+Every project below. No filtering, no collapsing.
+
+<br>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### Kern
 **A keyboard-driven personal data OS.**
 Schema-free JSONB storage, Monaco editor views, live integrations (GitHub · Notion · Calendar · Linear · RSS) — and its own **MCP server**, so AI can read and write your data natively.
 
-`React` `TypeScript` `PostgreSQL` `MCP`
+`React` `TypeScript` `PostgreSQL` `Supabase` `MCP`
 
 [**live ↗**](https://kern-alpha.vercel.app/) · [code](https://github.com/Sharann-del/Kern)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### Cosmos
 **An AI chatbot that lives in your terminal.**
@@ -56,7 +60,38 @@ Schema-free JSONB storage, Monaco editor views, live integrations (GitHub · Not
 [**live ↗**](https://cosmos-tui.app) · [code](https://github.com/Sharann-del/Cosmos)
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Forge `🟡 building`
+**Idea → deployable codebase.**
+Describe the software. Forge plans it, splits it across a dynamic multi-agent asyncio system, and hands back a runnable codebase — all compiled on *your* machine. Zero server cost. Stripe at $9/month after the first free build.
+
+`Tauri v2` `Next.js` `Python asyncio` `OpenRouter` `Supabase`
+
+</td>
+<td width="50%" valign="top">
+
+### Mantle `🟡 building`
+**A personal OS for iOS.**
+Personal productivity rebuilt as one native surface — Liquid Glass components, pure-black dark mode, editorial typography (Gloock / SF Pro / JetBrains Mono). Bring-your-own-key AI woven through the whole app.
+
+`SwiftUI` `iOS 26` `Liquid Glass` `OpenRouter BYOK`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Amoeba `🟡 building`
+**A self-prompting CLI coding agent.**
+You send the *first* prompt. Amoeba writes every prompt after that — reading its own output, deciding the next step, looping until it prints `DONE`. Pure Go, single binary, terminal-native visual identity.
+
+`Go` `OpenRouter` `CLI`
+
+</td>
+<td width="50%" valign="top">
 
 ### Landroid
 **Drone imagery → land intelligence.**
@@ -68,183 +103,136 @@ A FastAPI backend ingests orthomosaic GeoTIFFs and derives NDVI insights, plant-
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Lobe
+**Personal knowledge OS for the web.**
+Rich documents, databases, calendar views, kanban boards — plus a full mind-map of everything you've built.
+
+`React` `TypeScript` `PostgreSQL`
+
+[code](https://github.com/Sharann-del/Lobe)
+
+</td>
+<td width="50%" valign="top">
+
+### Arbor
+**Problem-solving as a tree.**
+Every node is a task or sub-problem. Recurse down, solve, backtrack — structured reasoning you can *see*.
+
+`React` `React Flow` `OpenAI API`
+
+[code](https://github.com/Sharann-del/Arbor)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Student Dashboard
+**One app instead of five broken portals.**
+Attendance, timetable, and planning for VIT students, consolidated from fragmented institutional systems.
+
+`React` `Node.js` `PostgreSQL`
+
+[code](https://github.com/Sharann-del/Student-Dashboard-WP)
+
+</td>
+<td width="50%" valign="top">
+
+### NotionWidgets
+**Notion databases on your home screen.**
+Native iOS widgets rendered straight from Notion databases, with smart filtering.
+
+`SwiftUI` `WidgetKit` `Notion API`
+
+[code](https://github.com/Sharann-del/NotionWidgets)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Planner
+**Scheduling, deadlines, clean organization.**
+A productivity-focused planner in SwiftUI — prioritization and visual clarity first.
+
+`SwiftUI` `Core Data`
+
+[code](https://github.com/Sharann-del/Planner)
+
+</td>
+<td width="50%" valign="top">
+
+### terminaltype
+**MonkeyType, but in the terminal.**
+Real-time WPM and accuracy in a clean TUI. Submitted to Terminal Trove.
+
+`JavaScript` `TUI`
+
+[code](https://github.com/Sharann-del/terminaltype)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Billing System
+**Full-stack invoicing platform.**
+Dynamic multi-product invoices, automatic totals, reusable templates. Built solo during the GeoPacific Solutions internship. JSONB-based PostgreSQL schema, JWT role-based access across admin/franchise/cashier tiers.
+
+`Node.js` `TypeScript` `PostgreSQL` `Express`
+
+[code](https://github.com/Sharann-del/Billing-System)
+
+</td>
+<td width="50%" valign="top">
+
+### LooBoo
+**Fully autonomous academic agent.**
+Telegram bot + Playwright VTOP scraper + Google APIs + Notion sync + APScheduler. Monitors attendance, assignments, and grades for two students simultaneously — no manual input after setup.
+
+`Python` `Telegram` `Playwright` `Notion API` `SQLite`
+
+</td>
+</tr>
 </table>
 
 <br>
 
-![now](assets/now.svg)
-
-![04 — full index](assets/s04.svg)
-
-Every row expands. Click into anything.
-
-<details>
-<summary>&nbsp;<b>kern</b> — keyboard-driven personal data OS &nbsp;·&nbsp; <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>MCP</code></summary>
-<br>
-
-> One inbox for everything you track — bookmarks, notes, tasks, feeds — stored schema-free in JSONB, queried like a database, navigated entirely by keyboard.
-
-- **Storage** — schema-free JSONB rows in PostgreSQL; define a "type" on the fly, get views instantly
-- **Views** — Monaco-powered editor surfaces, tables, and boards over the same data
-- **Integrations** — GitHub, Notion, Google Calendar, Linear, and RSS sync in live
-- **MCP server** — Supabase Edge Function exposing the whole dataset to AI agents as native tools
-- **Design system** — brass-gold `#C8A84B` on near-black, hairline rules, mono everywhere
-
-[**live ↗**](https://kern-alpha.vercel.app/) · [code](https://github.com/Sharann-del/Kern)
-
-</details>
-
-<details>
-<summary>&nbsp;<b>cosmos</b> — AI chatbot in your terminal &nbsp;·&nbsp; <code>Node.js</code> <code>OpenRouter</code> <code>TUI</code> <code>Supabase</code></summary>
-<br>
-
-> A full chat client that never leaves the terminal — because the terminal is where the work already is.
-
-- **Models** — 25+ free models routed through OpenRouter, switchable mid-conversation
-- **Sync** — chat history synced through the cloud; pick up a thread on any machine
-- **Files** — attach files straight from the shell; responses render as rich Markdown in the TUI
-- **Install** — one command, no GUI, no electron
-
-[**live ↗**](https://cosmos-tui.app) · [code](https://github.com/Sharann-del/Cosmos)
-
-</details>
-
-<details>
-<summary>&nbsp;<b>landroid</b> — drone-based land intelligence &nbsp;·&nbsp; <code>Flutter</code> <code>FastAPI</code> <code>PostGIS</code> <code>Python</code></summary>
-<br>
-
-> Fly a drone over farmland, get back decisions: where the crop is stressed, where the trees are, what to do next.
-
-- **Input** — orthomosaic GeoTIFF imagery from drone surveys
-- **Analysis** — NDVI computation, plant-health zone maps, tree-count estimates, overlay PNGs
-- **Backend** — FastAPI + PostGIS for spatial queries; Flutter app for the field
-
-[code](https://github.com/Sharann-del/Landroid)
-
-</details>
-
-<details>
-<summary>&nbsp;<b>amoeba</b> — self-prompting CLI coding agent &nbsp;·&nbsp; <code>Go</code> <code>CLI</code> &nbsp;·&nbsp; 🟡 building</summary>
-<br>
-
-> You send the *first* prompt. Amoeba writes every prompt after that — reading its own output, deciding the next step, looping until it prints `DONE`.
-
-- **Mechanic** — single human prompt → autonomous prompt chain driven by accumulated context
-- **Runtime** — pure Go, single binary, terminal-native visual identity
-
-</details>
-
-<details>
-<summary>&nbsp;<b>forge</b> — idea → deployable codebase &nbsp;·&nbsp; <code>Tauri v2</code> <code>Next.js</code> <code>Python</code> &nbsp;·&nbsp; 🟡 building</summary>
-<br>
-
-> Describe the software. Forge plans it, splits it across a dynamic multi-agent system, and hands back a runnable codebase — all compiled on *your* machine.
-
-- **Agents** — Python asyncio multi-agent pipeline that decomposes, writes, and assembles
-- **Architecture** — native desktop shell (Tauri v2 + Next.js), builds run locally → zero server cost
-- **Model layer** — bring-your-own-key via OpenRouter
-
-</details>
-
-<details>
-<summary>&nbsp;<b>mantle</b> — a personal OS for iOS &nbsp;·&nbsp; <code>SwiftUI</code> <code>iOS 26</code> <code>OpenRouter</code> &nbsp;·&nbsp; 🟡 building</summary>
-<br>
-
-> Personal productivity rebuilt as one native surface — Liquid Glass components, pure-black dark mode, editorial typography (Gloock / SF Pro / JetBrains Mono).
-
-- **Platform** — SwiftUI on iOS 26, Liquid Glass design language
-- **AI** — bring-your-own-key through OpenRouter, woven through the whole app
-
-</details>
-
-<details>
-<summary>&nbsp;<b>lobe</b> — personal knowledge OS for the web &nbsp;·&nbsp; <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code></summary>
-<br>
-
-> Rich documents, databases, calendar views, kanban boards — plus a full mind-map of everything you've built.
-
-[code](https://github.com/Sharann-del/Lobe)
-
-</details>
-
-<details>
-<summary>&nbsp;<b>arbor</b> — problem-solving as a tree &nbsp;·&nbsp; <code>React</code> <code>React Flow</code> <code>OpenAI API</code></summary>
-<br>
-
-> Every node is a task or sub-problem. Recurse down, solve, backtrack — structured reasoning you can *see*.
-
-[code](https://github.com/Sharann-del/Arbor)
-
-</details>
-
-<details>
-<summary>&nbsp;<b>student dashboard</b> — one app instead of five broken portals &nbsp;·&nbsp; <code>React</code> <code>Node.js</code> <code>PostgreSQL</code></summary>
-<br>
-
-> Attendance, timetable, and planning for VIT students, consolidated from fragmented institutional systems.
-
-[code](https://github.com/Sharann-del/Student-Dashboard-WP)
-
-</details>
-
-<details>
-<summary>&nbsp;<b>notionwidgets</b> — Notion databases on your home screen &nbsp;·&nbsp; <code>SwiftUI</code> <code>WidgetKit</code> <code>Notion API</code></summary>
-<br>
-
-> Native iOS widgets rendered straight from Notion databases, with smart filtering.
-
-[code](https://github.com/Sharann-del/NotionWidgets)
-
-</details>
-
-<details>
-<summary>&nbsp;<b>planner</b> — scheduling, deadlines, clean organization &nbsp;·&nbsp; <code>SwiftUI</code> <code>Core Data</code></summary>
-<br>
-
-> A productivity-focused planner in SwiftUI — prioritization and visual clarity first.
-
-[code](https://github.com/Sharann-del/Planner)
-
-</details>
-
-<details>
-<summary>&nbsp;<b>terminaltype</b> — MonkeyType, but in the terminal &nbsp;·&nbsp; <code>JavaScript</code> <code>TUI</code></summary>
-<br>
-
-> Real-time WPM and accuracy in a clean TUI. Submitted to Terminal Trove.
-
-[code](https://github.com/Sharann-del/terminaltype)
-
-</details>
-
-<details>
-<summary>&nbsp;<b>billing system</b> — full-stack invoicing &nbsp;·&nbsp; <code>Node.js</code> <code>TypeScript</code> <code>PostgreSQL</code></summary>
-<br>
-
-> Dynamic multi-product invoices, automatic totals, reusable templates. Built during the GeoPacific internship.
-
-[code](https://github.com/Sharann-del/Billing-System)
-
-</details>
-
-![05 — telemetry](assets/s05.svg)
+![04 — telemetry](assets/s04.svg)
 
 ![Telemetry](assets/telemetry.svg)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sharann-del&show_icons=true&hide_border=true&bg_color=ffffff&title_color=3B5BDB&text_color=1A1A1A&icon_color=3B5BDB&border_color=E5E7EB&hide_rank=false" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharann-del&layout=compact&hide_border=true&bg_color=ffffff&title_color=3B5BDB&text_color=1A1A1A&border_color=E5E7EB&langs_count=8" height="170" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sharann-del&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharann-del&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&icon_color=000000&include_all_commits=true&count_private=true" height="170" alt="GitHub stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharann-del&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharann-del&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&langs_count=8" height="170" alt="Top languages"/>
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=ffffff&color=1A1A1A&line=3B5BDB&point=3B5BDB&area=true&area_color=3B5BDB&hide_border=true&custom_title=Contribution%20telemetry%20—%20live" width="97%" alt="Contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=000000&color=888888&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=contribution+graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=ffffff&color=555555&line=000000&point=000000&area_color=000000&area=true&hide_border=true&custom_title=contribution+graph" width="97%" alt="Contribution graph"/>
+</picture>
 
 </div>
 
-![06 — the route](assets/s06.svg)
+![05 — the route](assets/s05.svg)
 
 ![Timeline](assets/timeline.svg)
 
 ```text
+2026 JUN — NOW    Ericsson · Software Engineer Intern · Chennai
+
+2026 MAY — NOW    SRIP 2026 · AI Hallucination Suppression Research
+                  VIT Chennai · under Dr. Sandhya P
+
 2025 MAR — JUL   GeoPacific Solutions · Billing System Developer Intern · Chennai
 
   + Built a full-stack billing & inventory platform from scratch.
@@ -254,15 +242,17 @@ Every row expands. Click into anything.
   + TypeScript-first across every model and API contract.
 ```
 
-![07 — stack](assets/s07.svg)
+![06 — stack](assets/s06.svg)
 
 ```text
 languages   Swift · TypeScript · JavaScript · Python · Go · Dart · C++
-mobile      SwiftUI · WidgetKit · Core Data · Flutter
+mobile      SwiftUI · WidgetKit · Core Data · MapKit · Flutter
 web         React · Next.js · Node.js · Express · Tailwind · Vite
 data        PostgreSQL · Supabase · FastAPI · PostGIS · Prisma · SQLite
-ai          MCP · OpenRouter · OpenAI API · agentic systems · Tauri
-tooling     Git · Docker · Figma · Notion · Postman · Neovim · Ghostty · Zellij
+ai          MCP · OpenRouter · Anthropic API · asyncio agents · LLM arch
+desktop     Tauri v2
+terminal    Go/Bubble Tea · Python/Textual · blessed · Ghostty · Zellij · Neovim
+tooling     Git · Docker · Figma · Notion · Postman · Starship · pnpm
 ```
 
 <br>
@@ -272,7 +262,9 @@ tooling     Git · Docker · Figma · Notion · Postman · Neovim · Ghostty · 
 <!--
   ❯ cat /dev/easter-egg
   you read the source. respect.
-  this page is 13 hand-built SVGs sharing one design system:
-  ink #0B0B0D · bone #EDEAE2 · brass #C8A84B
+  this page is hand-built SVGs sharing one design system:
+  light: #FFFFFF bg · #0D0D0D ink · stepped greys
+  dark:  #000000 bg · #FFFFFF ink · stepped greys
+  fully adaptive via prefers-color-scheme CSS media queries.
   say hi → sharannmanojkumar@gmail.com
 -->
