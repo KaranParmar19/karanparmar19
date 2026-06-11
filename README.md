@@ -233,10 +233,10 @@ Every row expands. Click into anything.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sharann-del&show_icons=true&hide_border=true&bg_color=0B0B0D&title_color=C8A84B&text_color=EDEAE2&icon_color=C8A84B&hide_rank=false" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharann-del&layout=compact&hide_border=true&bg_color=0B0B0D&title_color=C8A84B&text_color=EDEAE2&langs_count=8" height="170" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sharann-del&show_icons=true&hide_border=true&bg_color=ffffff&title_color=3B5BDB&text_color=1A1A1A&icon_color=3B5BDB&border_color=E5E7EB&hide_rank=false" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharann-del&layout=compact&hide_border=true&bg_color=ffffff&title_color=3B5BDB&text_color=1A1A1A&border_color=E5E7EB&langs_count=8" height="170" alt="Top languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=0B0B0D&color=EDEAE2&line=C8A84B&point=EDEAE2&area=true&area_color=C8A84B&hide_border=true&custom_title=Contribution%20telemetry%20—%20live" width="97%" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=ffffff&color=1A1A1A&line=3B5BDB&point=3B5BDB&area=true&area_color=3B5BDB&hide_border=true&custom_title=Contribution%20telemetry%20—%20live" width="97%" alt="Contribution graph" />
 
 </div>
 
