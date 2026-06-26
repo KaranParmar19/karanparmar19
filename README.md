@@ -24,7 +24,7 @@ clubs     iSpace Club — Web & App Development department
 
 ![02 — system map](assets/s02.svg)
 
-Ten projects, four platforms, one pipeline. Every node is a real, working system.
+Fifteen projects, four platforms, one pipeline. Every node is a real, working system.
 
 ![System map](assets/ecosystem.svg)
 
@@ -38,9 +38,37 @@ Ten projects, four platforms, one pipeline. Every node is a real, working system
 <tr>
 <td width="50%" valign="top">
 
+### API Keychain
+**One key for every free-tier AI provider.**
+Self-hosted LLM gateway routing across 8 inference networks behind a single OpenAI-compatible endpoint. Effort-tier cascading, automatic failover, AES-256-GCM encrypted key storage, and a full usage analytics dashboard.
+
+`Next.js` `FastAPI` `Python` `Supabase` `AES-256-GCM` `TypeScript`
+
+[**live ↗**](https://apikeychain.dev) · [code](https://github.com/Sharann-del/API-Keychain)
+
+<br>
+
+</td>
+<td width="50%" valign="top">
+
+### ProposalOS
+**AI-powered RFP discovery & response platform.**
+Scrapes 11+ live procurement portals with AI fit-scoring, qualification, and submission-ready proposal generation. Built at Ambian Strategy. Reduces opportunity response time from days to under two hours.
+
+`Next.js` `FastAPI` `Python` `Supabase`
+
+*private — built at Ambian Strategy*
+
+<br>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### Kern
 **A keyboard-driven personal data OS.**
-Schema-free JSONB storage, Monaco editor views, live integrations with GitHub, Notion, Calendar, Linear, and RSS feeds. Ships an MCP server for AI interaction with your personal data.
+Schema-free JSONB storage, Monaco editor views, live integrations with GitHub, Notion, Calendar, and RSS. Ships an MCP server so AI can interact with your personal data directly.
 
 `React` `TypeScript` `PostgreSQL` `Supabase` `MCP`
 
@@ -53,7 +81,7 @@ Schema-free JSONB storage, Monaco editor views, live integrations with GitHub, N
 
 ### Cosmos
 **An AI chatbot that lives in your terminal.**
-25+ free models via OpenRouter, cloud-synced chat history across devices, file attachments, rich Markdown output — free forever, installable in one command.
+25+ free models via OpenRouter, cloud-synced chat history across devices, file attachments, rich Markdown output — free forever, installable in one command via pip.
 
 `Node.js` `OpenRouter` `TUI` `Supabase`
 
@@ -64,6 +92,19 @@ Schema-free JSONB storage, Monaco editor views, live integrations with GitHub, N
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### Bio-Inspired AI Hallucination Suppression
+**Hallucination detection pipeline for LLMs.**
+Confidence scoring → NER routing → Wikidata/Wikipedia evidence retrieval → RoBERTa NLI contradiction detection, with a blockchain audit layer. SRIP 2026 research under Dr. Sandhya P, VIT Chennai.
+
+`Python` `Transformers` `NLP` `Blockchain`
+
+[code](https://github.com/Sharann-del/Bio-Inspired-AI-Hallucination-Suppression)
+
+<br>
+
+</td>
 <td width="50%" valign="top">
 
 ### Landroid
@@ -77,6 +118,8 @@ FastAPI backend ingests orthomosaic GeoTIFFs and derives NDVI-based insights, pl
 <br>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Student Dashboard
@@ -90,8 +133,6 @@ Unified academic platform for VIT students — attendance tracking, timetable ma
 <br>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### Arbor
@@ -105,11 +146,13 @@ Every node is a task or sub-problem. Recurse down, solve, backtrack — structur
 <br>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### NotionWidgets
 **Notion databases on your home screen.**
-Native iOS app that connects to Notion databases and renders custom home screen widgets — schedules, tasks, academic events. Smart filtering, widget-first design.
+Native iOS app connecting to Notion databases and rendering custom home screen widgets — schedules, tasks, academic events. Smart filtering, widget-first design.
 
 `Swift` `SwiftUI` `WidgetKit` `Notion API`
 
@@ -118,13 +161,11 @@ Native iOS app that connects to Notion databases and renders custom home screen 
 <br>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### Planner
 **Scheduling and focus, native.**
-Productivity-focused planner in SwiftUI — task scheduling, deadlines, prioritization, and clean visual organization for students and developers who want structure without clutter.
+SwiftUI productivity planner — task scheduling, deadlines, prioritization, and clean visual organization for students and developers who want structure without clutter.
 
 `Swift` `SwiftUI` `Core Data`
 
@@ -133,11 +174,13 @@ Productivity-focused planner in SwiftUI — task scheduling, deadlines, prioriti
 <br>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Lobe
 **Personal knowledge OS for the web.**
-Organize thoughts, projects, and life in one place — rich documents, databases, calendar views, kanban boards, and a full mind map of everything you've built.
+Organize thoughts, projects, and life in one place — rich documents, databases, calendar views, and kanban boards in a single web interface.
 
 `TypeScript` `React` `PostgreSQL`
 
@@ -146,13 +189,11 @@ Organize thoughts, projects, and life in one place — rich documents, databases
 <br>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### Billing System
 **Full-stack invoicing platform.**
-Dynamic customer sales, multi-product invoices, automatic totals, structured backend storage. JSONB-based PostgreSQL schema, JWT role-based access across admin/franchise/cashier tiers. Built at GeoPacific Solutions.
+Dynamic multi-product invoices, automatic totals, JSONB-based PostgreSQL schema, JWT role-based access across admin/franchise/cashier tiers. Built during the GeoPacific Solutions internship.
 
 `Node.js` `TypeScript` `PostgreSQL` `Express` `Handlebars`
 
@@ -161,17 +202,50 @@ Dynamic customer sales, multi-product invoices, automatic totals, structured bac
 <br>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### TerminalType
 **Monkeytype for your terminal.**
-Real-time WPM and accuracy tracking, instant feedback, and a distraction-free TUI — for developers who want typing practice without leaving the CLI.
+Real-time WPM and accuracy tracking, instant feedback, distraction-free TUI — for developers who want typing practice without leaving the CLI.
 
 `Node.js` `JavaScript` `TUI` `CLI`
 
 [code](https://github.com/Sharann-del/terminaltype)
 
 <br>
+
+</td>
+<td width="50%" valign="top">
+
+### FinSight AI
+**AI-powered fintech assistant.**
+ArcNight 2026 hackathon submission built with Dhriti Vaz. Financial data analysis, AI-driven insight generation, and smart portfolio intelligence for everyday users.
+
+`Python` `Next.js`
+
+[code](https://github.com/ragavhariharan/FinSightAI)
+
+<br>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Course & Module Recognition
+**Automated academic course identification.**
+Parses and classifies course codes, module names, and credit structures from unstructured institutional documents. Handles inconsistent formatting across portals — useful for timetable parsing, credit tracking, and academic planning tools.
+
+`Python`
+
+[code](https://github.com/Sharann-del/Course-and-Module-Recognition)
+
+<br>
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -206,6 +280,21 @@ Real-time WPM and accuracy tracking, instant feedback, and a distraction-free TU
 ![Timeline](assets/timeline.svg)
 
 ```text
+2026             Ambian Strategy · Full-Stack Developer Intern · Chennai
+
+  + Built ProposalOS — an AI-powered RFP discovery & response platform from scratch.
+  + Scraped and indexed 11+ live government procurement portals with AI fit-scoring.
+  + Designed the full product flow: discovery → qualification → proposal generation →
+    submission-ready document export.
+  + Reduced opportunity response time from days to under two hours.
+
+2026             VIT Chennai · Summer Research Intern (SRIP 2026) · under Dr. Sandhya P
+
+  + Researched hallucination detection in large language models.
+  + Built a pipeline: confidence scoring → NER routing → Wikidata/Wikipedia evidence
+    retrieval → RoBERTa NLI contradiction detection + blockchain audit layer.
+  + Published a research paper and shipped a live demo API.
+
 2025 MAR – JUL   GeoPacific Solutions · Billing System Developer Intern · Chennai
 
   + Designed a JSONB-based PostgreSQL schema for flexible product storage and dynamic
