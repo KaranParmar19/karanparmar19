@@ -44,9 +44,9 @@
     <line class="wire w7" x1="500" y1="280" x2="850" y2="320"/>
     <line class="wire w8" x1="500" y1="280" x2="360" y2="465"/>
     <line class="wire w9" x1="500" y1="280" x2="680" y2="460"/>
-    <line class="wire w9" x1="500" y1="280" x2="500" y2="580"/>
-    <line class="wire w9" x1="500" y1="280" x2="240" y2="570"/>
-    <line class="wire w9" x1="500" y1="280" x2="760" y2="570"/>
+    <line class="wire w9" x1="500" y1="280" x2="190" y2="581"/>
+    <line class="wire w9" x1="500" y1="280" x2="500" y2="581"/>
+    <line class="wire w9" x1="500" y1="280" x2="810" y2="581"/>
   </g>
   <g>
     <line class="flow" x1="500" y1="280" x2="165" y2="165"/>
@@ -58,17 +58,17 @@
     <line class="flow" x1="500" y1="280" x2="850" y2="320"/>
     <line class="flow" x1="500" y1="280" x2="360" y2="465"/>
     <line class="flow" x1="500" y1="280" x2="680" y2="460"/>
-    <line class="flow" x1="500" y1="280" x2="500" y2="580"/>
-    <line class="flow" x1="500" y1="280" x2="240" y2="570"/>
-    <line class="flow" x1="500" y1="280" x2="760" y2="570"/>
+    <line class="flow" x1="500" y1="280" x2="190" y2="581"/>
+    <line class="flow" x1="500" y1="280" x2="500" y2="581"/>
+    <line class="flow" x1="500" y1="280" x2="810" y2="581"/>
   </g>
 
   <!-- cluster labels -->
   <text fill="var(--accent)" class="mono pop p10" x="78"  y="110" font-size="10" letter-spacing="3">TERMINAL</text>
   <text fill="var(--accent)" class="mono pop p10" x="340" y="56"  font-size="10" letter-spacing="3">WEB &amp; DATA</text>
   <text fill="var(--accent)" class="mono pop p10" x="845" y="142" font-size="10" letter-spacing="3" text-anchor="middle">iOS NATIVE</text>
-  <text fill="var(--accent)" class="mono pop p10" x="440" y="540" font-size="10" letter-spacing="3">FULL-STACK</text>
-  <text fill="var(--accent)" class="mono pop p10" x="500" y="546" font-size="10" letter-spacing="3" text-anchor="middle">RESEARCH &amp; INTERNSHIPS</text>
+  <text fill="var(--accent)" class="mono pop p10" x="440" y="510" font-size="10" letter-spacing="3">FULL-STACK</text>
+  <text fill="var(--accent)" class="mono pop p10" x="500" y="536" font-size="10" letter-spacing="3" text-anchor="middle">RESEARCH &amp; INTERNSHIPS</text>
 
   <!-- core -->
   <g class="pop p0">
@@ -90,9 +90,9 @@
   <g class="pop p9"><rect class="node" x="605" y="437" width="150" height="46" rx="2"/><text fill="var(--bone)" class="mono" x="619" y="457" font-size="12" letter-spacing="1">landroid</text><text fill="var(--muted)" class="mono" x="619" y="473" font-size="9" letter-spacing="1">drone NDVI · GeoTIFF</text></g>
 
   <!-- new nodes: internship + research cluster at bottom -->
-  <g class="pop p11"><rect class="node" x="165" y="558" width="150" height="46" rx="2"/><text fill="var(--bone)" class="mono" x="179" y="578" font-size="12" letter-spacing="1">api keychain</text><text fill="var(--muted)" class="mono" x="179" y="594" font-size="9" letter-spacing="1">LLM gateway · live</text></g>
+  <g class="pop p11"><rect class="node" x="115" y="558" width="150" height="46" rx="2"/><text fill="var(--bone)" class="mono" x="129" y="578" font-size="12" letter-spacing="1">api keychain</text><text fill="var(--muted)" class="mono" x="129" y="594" font-size="9" letter-spacing="1">LLM gateway · live</text></g>
   <g class="pop p12"><rect class="node" x="425" y="558" width="150" height="46" rx="2"/><text fill="var(--bone)" class="mono" x="439" y="578" font-size="12" letter-spacing="1">proposalOS</text><text fill="var(--muted)" class="mono" x="439" y="594" font-size="9" letter-spacing="1">RFP platform · Ambian</text></g>
-  <g class="pop p13"><rect class="node" x="685" y="558" width="150" height="46" rx="2"/><text fill="var(--bone)" class="mono" x="699" y="578" font-size="12" letter-spacing="1">hallucination det.</text><text fill="var(--muted)" class="mono" x="699" y="594" font-size="9" letter-spacing="1">SRIP 2026 · VIT</text></g>
+  <g class="pop p13"><rect class="node" x="735" y="558" width="150" height="46" rx="2"/><text fill="var(--bone)" class="mono" x="749" y="578" font-size="12" letter-spacing="1">hallucination det.</text><text fill="var(--muted)" class="mono" x="749" y="594" font-size="9" letter-spacing="1">SRIP 2026 · VIT</text></g>
 
   <line x1="48" y1="650" x2="952" y2="650" stroke="var(--rule)"/>
   <text fill="var(--dim)" class="mono" x="952" y="672" font-size="10" letter-spacing="2" text-anchor="end">DASHED LINES — DATA IN MOTION</text>
