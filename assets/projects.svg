@@ -1,0 +1,95 @@
+<svg viewBox="0 0 1000 660" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projects — 15 shipped">
+  <style>
+    :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; }
+    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
+    .mono { font-family: "Inter", ui-sans-serif, system-ui, -apple-system, sans-serif; }
+    .rise { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity:0;transform:translateY(8px); } to { opacity:1;transform:translateY(0); } }
+    .a1{animation-delay:.1s} .a2{animation-delay:.2s} .a3{animation-delay:.3s} .a4{animation-delay:.4s}
+    .a5{animation-delay:.5s} .a6{animation-delay:.6s} .a7{animation-delay:.7s} .a8{animation-delay:.8s}
+    @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
+  </style>
+
+  <g class="rise a1">
+    <text class="mono" x="48"  y="40" font-size="14" font-weight="600" fill="var(--bone)">API Keychain</text>
+    <text class="mono" x="48"  y="60" font-size="11" fill="var(--muted)">LLM gateway · 8 inference networks · AES-256-GCM · usage analytics</text>
+    <text class="mono" x="48"  y="78" font-size="10" fill="var(--dim)">Next.js · FastAPI · Python · Supabase · TypeScript</text>
+
+    <text class="mono" x="524" y="40" font-size="14" font-weight="600" fill="var(--bone)">ProposalOS</text>
+    <text class="mono" x="524" y="60" font-size="11" fill="var(--muted)">AI RFP platform · 11+ portals · fit-scoring · private @ Ambian</text>
+    <text class="mono" x="524" y="78" font-size="10" fill="var(--dim)">Next.js · FastAPI · Python · Supabase</text>
+  </g>
+  <line x1="48" y1="104" x2="952" y2="104" stroke="var(--rule)" stroke-width="1" opacity=".2"/>
+
+  <g class="rise a2">
+    <text class="mono" x="48"  y="124" font-size="14" font-weight="600" fill="var(--bone)">Kern</text>
+    <text class="mono" x="48"  y="144" font-size="11" fill="var(--muted)">keyboard-driven data OS · MCP server · JSONB · GitHub · Notion · RSS</text>
+    <text class="mono" x="48"  y="162" font-size="10" fill="var(--dim)">React · TypeScript · PostgreSQL · Supabase · MCP</text>
+
+    <text class="mono" x="524" y="124" font-size="14" font-weight="600" fill="var(--bone)">Cosmos</text>
+    <text class="mono" x="524" y="144" font-size="11" fill="var(--muted)">AI terminal chatbot · 25+ models via OpenRouter · cloud-synced history</text>
+    <text class="mono" x="524" y="162" font-size="10" fill="var(--dim)">Node.js · OpenRouter · TUI · Supabase</text>
+  </g>
+  <line x1="48" y1="188" x2="952" y2="188" stroke="var(--rule)" stroke-width="1" opacity=".2"/>
+
+  <g class="rise a3">
+    <text class="mono" x="48"  y="208" font-size="14" font-weight="600" fill="var(--bone)">Hallucination Suppression</text>
+    <text class="mono" x="48"  y="228" font-size="11" fill="var(--muted)">confidence → NER → Wikidata → RoBERTa NLI · blockchain audit layer</text>
+    <text class="mono" x="48"  y="246" font-size="10" fill="var(--dim)">Python · Transformers · NLP · Blockchain — SRIP 2026</text>
+
+    <text class="mono" x="524" y="208" font-size="14" font-weight="600" fill="var(--bone)">Landroid</text>
+    <text class="mono" x="524" y="228" font-size="11" fill="var(--muted)">drone GeoTIFF → NDVI insights · plant health zones · tree counts</text>
+    <text class="mono" x="524" y="246" font-size="10" fill="var(--dim)">Flutter · FastAPI · Python · Supabase · PostGIS</text>
+  </g>
+  <line x1="48" y1="272" x2="952" y2="272" stroke="var(--rule)" stroke-width="1" opacity=".2"/>
+
+  <g class="rise a4">
+    <text class="mono" x="48"  y="292" font-size="14" font-weight="600" fill="var(--bone)">Student Dashboard</text>
+    <text class="mono" x="48"  y="312" font-size="11" fill="var(--muted)">unified VIT platform · attendance · timetable · planning tools</text>
+    <text class="mono" x="48"  y="330" font-size="10" fill="var(--dim)">React · Node.js · TypeScript · PostgreSQL</text>
+
+    <text class="mono" x="524" y="292" font-size="14" font-weight="600" fill="var(--bone)">Arbor</text>
+    <text class="mono" x="524" y="312" font-size="11" fill="var(--muted)">problem-solving as a tree · React Flow · AI-assisted reasoning</text>
+    <text class="mono" x="524" y="330" font-size="10" fill="var(--dim)">React · TypeScript · React Flow · OpenAI API</text>
+  </g>
+  <line x1="48" y1="356" x2="952" y2="356" stroke="var(--rule)" stroke-width="1" opacity=".2"/>
+
+  <g class="rise a5">
+    <text class="mono" x="48"  y="376" font-size="14" font-weight="600" fill="var(--bone)">NotionWidgets</text>
+    <text class="mono" x="48"  y="396" font-size="11" fill="var(--muted)">Notion databases on iOS home screen · WidgetKit · smart filtering</text>
+    <text class="mono" x="48"  y="414" font-size="10" fill="var(--dim)">Swift · SwiftUI · WidgetKit · Notion API</text>
+
+    <text class="mono" x="524" y="376" font-size="14" font-weight="600" fill="var(--bone)">Planner</text>
+    <text class="mono" x="524" y="396" font-size="11" fill="var(--muted)">SwiftUI productivity planner · tasks · deadlines · prioritization</text>
+    <text class="mono" x="524" y="414" font-size="10" fill="var(--dim)">Swift · SwiftUI · Core Data</text>
+  </g>
+  <line x1="48" y1="440" x2="952" y2="440" stroke="var(--rule)" stroke-width="1" opacity=".2"/>
+
+  <g class="rise a6">
+    <text class="mono" x="48"  y="460" font-size="14" font-weight="600" fill="var(--bone)">Lobe</text>
+    <text class="mono" x="48"  y="480" font-size="11" fill="var(--muted)">personal knowledge OS · docs · databases · calendar · kanban</text>
+    <text class="mono" x="48"  y="498" font-size="10" fill="var(--dim)">TypeScript · React · PostgreSQL</text>
+
+    <text class="mono" x="524" y="460" font-size="14" font-weight="600" fill="var(--bone)">Billing System</text>
+    <text class="mono" x="524" y="480" font-size="11" fill="var(--muted)">full-stack invoicing · JSONB schema · JWT auth · 3 role tiers</text>
+    <text class="mono" x="524" y="498" font-size="10" fill="var(--dim)">Node.js · TypeScript · PostgreSQL · Express · Handlebars</text>
+  </g>
+  <line x1="48" y1="524" x2="952" y2="524" stroke="var(--rule)" stroke-width="1" opacity=".2"/>
+
+  <g class="rise a7">
+    <text class="mono" x="48"  y="544" font-size="14" font-weight="600" fill="var(--bone)">TerminalType</text>
+    <text class="mono" x="48"  y="564" font-size="11" fill="var(--muted)">Monkeytype for the terminal · real-time WPM · instant feedback</text>
+    <text class="mono" x="48"  y="582" font-size="10" fill="var(--dim)">Node.js · JavaScript · TUI · CLI</text>
+
+    <text class="mono" x="524" y="544" font-size="14" font-weight="600" fill="var(--bone)">FinSight AI</text>
+    <text class="mono" x="524" y="564" font-size="11" fill="var(--muted)">AI fintech assistant · ArcNight 2026 hackathon · portfolio intelligence</text>
+    <text class="mono" x="524" y="582" font-size="10" fill="var(--dim)">Python · Next.js</text>
+  </g>
+  <line x1="48" y1="608" x2="952" y2="608" stroke="var(--rule)" stroke-width="1" opacity=".2"/>
+
+  <g class="rise a8">
+    <text class="mono" x="48"  y="628" font-size="14" font-weight="600" fill="var(--bone)">Course &amp; Module Recognition</text>
+    <text class="mono" x="48"  y="648" font-size="11" fill="var(--muted)">automated course identification · parses codes from institutional documents</text>
+    <text class="mono" x="48"  y="666" font-size="10" fill="var(--dim)">Python</text>
+  </g>
+</svg>

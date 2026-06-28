@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 356" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Experience — Ambian Strategy, VIT SRIP, GeoPacific Solutions, VIT Chennai">
+<svg viewBox="0 0 1000 370" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Experience — Ambian Strategy, VIT SRIP, GeoPacific Solutions, VIT Chennai">
   <style>
     :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; }
     @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
@@ -9,32 +9,32 @@
     @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
   </style>
 
-  <line x1="120" y1="10" x2="120" y2="346" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
+  <line x1="120" y1="10" x2="120" y2="360" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
 
   <g class="rise a1">
-    <text class="mono" x="48" y="38" font-size="10" fill="var(--accent)" letter-spacing="2.5">2026</text>
-    <text class="mono" x="136" y="38" font-size="13" fill="var(--bone)">Ambian Strategy · Full-Stack Developer Intern · Chennai</text>
-    <text class="mono" x="136" y="60" font-size="12" fill="var(--muted)">built ProposalOS — AI-powered RFP discovery &amp; response platform from scratch</text>
-    <text class="mono" x="136" y="78" font-size="12" fill="var(--muted)">scraped 11+ procurement portals with AI fit-scoring · response time: days → two hours</text>
+    <text class="mono" x="48" y="42"  font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
+    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">Ambian Strategy · Full-Stack Developer Intern · Chennai</text>
+    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">built ProposalOS — AI-powered RFP discovery &amp; response platform from scratch</text>
+    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">scraped 11+ procurement portals with AI fit-scoring · response time: days → two hours</text>
   </g>
 
   <g class="rise a2">
-    <text class="mono" x="48" y="130" font-size="10" fill="var(--accent)" letter-spacing="2.5">2026</text>
-    <text class="mono" x="136" y="130" font-size="13" fill="var(--bone)">VIT Chennai · Summer Research Intern (SRIP 2026) · Dr. Sandhya P</text>
-    <text class="mono" x="136" y="152" font-size="12" fill="var(--muted)">hallucination detection pipeline · confidence scoring → NER routing → Wikidata evidence retrieval</text>
-    <text class="mono" x="136" y="170" font-size="12" fill="var(--muted)">RoBERTa NLI contradiction detection · blockchain audit layer · research paper published</text>
+    <text class="mono" x="48" y="138" font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
+    <text class="mono" x="136" y="138" font-size="15" fill="var(--bone)">VIT Chennai · Summer Research Intern (SRIP 2026) · Dr. Sandhya P</text>
+    <text class="mono" x="136" y="164" font-size="14" fill="var(--muted)">hallucination detection · confidence scoring → NER routing → Wikidata evidence retrieval</text>
+    <text class="mono" x="136" y="186" font-size="14" fill="var(--muted)">RoBERTa NLI contradiction detection · blockchain audit layer · research paper published</text>
   </g>
 
   <g class="rise a3">
-    <text class="mono" x="48" y="222" font-size="10" fill="var(--accent)" letter-spacing="2.5">2025</text>
-    <text class="mono" x="136" y="222" font-size="13" fill="var(--bone)">GeoPacific Solutions · Billing Developer Intern · Chennai · Mar–Jul</text>
-    <text class="mono" x="136" y="244" font-size="12" fill="var(--muted)">JSONB PostgreSQL schema · JWT auth across admin / franchise / cashier roles</text>
-    <text class="mono" x="136" y="262" font-size="12" fill="var(--muted)">Node.js / Express APIs for invoice lifecycle · inventory updates · reporting endpoints</text>
+    <text class="mono" x="48" y="234" font-size="12" fill="var(--accent)" letter-spacing="2">2025</text>
+    <text class="mono" x="136" y="234" font-size="15" fill="var(--bone)">GeoPacific Solutions · Billing Developer Intern · Chennai · Mar–Jul</text>
+    <text class="mono" x="136" y="260" font-size="14" fill="var(--muted)">JSONB PostgreSQL schema · JWT auth across admin / franchise / cashier roles</text>
+    <text class="mono" x="136" y="282" font-size="14" fill="var(--muted)">Node.js / Express APIs for invoice lifecycle · inventory updates · reporting endpoints</text>
   </g>
 
   <g class="rise a4">
-    <text class="mono" x="48" y="314" font-size="10" fill="var(--accent)" letter-spacing="2.5">2024 –</text>
-    <text class="mono" x="136" y="314" font-size="13" fill="var(--bone)">VIT Chennai · B.Tech Computer Science · Full-Stack &amp; iOS Track</text>
-    <text class="mono" x="136" y="336" font-size="12" fill="var(--muted)">iSpace Club — Web &amp; App Development department</text>
+    <text class="mono" x="48" y="330" font-size="12" fill="var(--accent)" letter-spacing="2">2024 –</text>
+    <text class="mono" x="136" y="330" font-size="15" fill="var(--bone)">VIT Chennai · B.Tech Computer Science · Full-Stack &amp; iOS Track</text>
+    <text class="mono" x="136" y="356" font-size="14" fill="var(--muted)">iSpace Club — Web &amp; App Development department</text>
   </g>
 </svg>
