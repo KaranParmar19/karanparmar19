@@ -10,8 +10,7 @@
     @media (prefers-reduced-motion: reduce) { .belt,.dot { animation: none; } }
     .lf { display: block; } .df { display: none; }
     @media (prefers-color-scheme: dark) { .lf { display: none; } .df { display: block; } }
-      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; }
-     (prefers-color-scheme: dark) { :root { --bone: #FFFFFF; --muted: #FFFFFF; --dim: #FFFFFF; --rule: #FFFFFF; --accent: #FFFFFF; --node-bg: #000000; --core-bg: #000000; } }
+      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; --ghost: #000000; }
   </style>
   <line x1="0" y1="0.5" x2="1000" y2="0.5" stroke="var(--rule)"/>
   <line x1="0" y1="63.5" x2="1000" y2="63.5" stroke="var(--rule)"/>

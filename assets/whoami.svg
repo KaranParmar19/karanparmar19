@@ -7,8 +7,7 @@
     @keyframes rise { from { opacity:0;transform:translateY(8px); } to { opacity:1;transform:translateY(0); } }
     .a1{animation-delay:.1s} .a2{animation-delay:.2s} .a3{animation-delay:.35s} .a4{animation-delay:.5s} .a5{animation-delay:.65s} .a6{animation-delay:.8s}
     @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
-      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; }
-     (prefers-color-scheme: dark) { :root { --bone: #FFFFFF; --muted: #FFFFFF; --dim: #FFFFFF; --rule: #FFFFFF; --accent: #FFFFFF; --node-bg: #000000; --core-bg: #000000; } }
+      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; --ghost: #000000; }
   </style>
 
   <text class="mono rise a1" x="48" y="32" font-size="16" fill="var(--bone)">third-year CS student at Vellore Institute of Technology, Chennai.</text>

@@ -1,59 +1,68 @@
 <div align="center">
 
-![Sharann Manojkumar](assets/header-v1.svg)
+<img src="assets/dark/header-v1.svg#gh-dark-mode-only" alt="Sharann Manojkumar"/>
+<img src="assets/header-v1.svg#gh-light-mode-only" alt="Sharann Manojkumar"/>
 
-<a href="https://sharann.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000000" alt="Portfolio"/></picture></a>
-<a href="https://sharann.dev/Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RESUME-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=ffffff"/><img src="https://img.shields.io/badge/RESUME-ffffff?style=flat-square&logo=adobeacrobatreader&logoColor=000000" alt="Resume"/></picture></a>
-<a href="https://linkedin.com/in/sharannm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
-<a href="https://x.com/m_sharann"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/X-ffffff?style=flat-square" alt="X"/></picture></a>
-<a href="mailto:sharannmanojkumar@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square" alt="Email"/></picture></a>
+<a href="https://sharann.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logoColor=ffffff#gh-dark-mode-only" alt="Portfolio"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000000#gh-light-mode-only" alt="Portfolio"/></a>
+<a href="https://sharann.dev/Resume.pdf"><img src="https://img.shields.io/badge/RESUME-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=ffffff#gh-dark-mode-only" alt="Resume"/><img src="https://img.shields.io/badge/RESUME-ffffff?style=flat-square&logo=adobeacrobatreader&logoColor=000000#gh-light-mode-only" alt="Resume"/></a>
+<a href="https://linkedin.com/in/sharannm"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff#gh-dark-mode-only" alt="LinkedIn"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000#gh-light-mode-only" alt="LinkedIn"/></a>
+<a href="https://x.com/m_sharann"><img src="https://img.shields.io/badge/X-0d1117?style=flat-square#gh-dark-mode-only" alt="X"/><img src="https://img.shields.io/badge/X-ffffff?style=flat-square#gh-light-mode-only" alt="X"/></a>
+<a href="mailto:sharannmanojkumar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square#gh-dark-mode-only" alt="Email"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square#gh-light-mode-only" alt="Email"/></a>
 
 </div>
 
-![01 — whoami](assets/s01.svg)
+<img src="assets/dark/s01.svg#gh-dark-mode-only" alt="01 — whoami"/>
+<img src="assets/s01.svg#gh-light-mode-only" alt="01 — whoami"/>
 
-![About Sharann](assets/whoami.svg)
+<img src="assets/dark/whoami.svg#gh-dark-mode-only" alt="About Sharann"/>
+<img src="assets/whoami.svg#gh-light-mode-only" alt="About Sharann"/>
 
-![02 — system map](assets/s02.svg)
+<img src="assets/dark/s02.svg#gh-dark-mode-only" alt="02 — system map"/>
+<img src="assets/s02.svg#gh-light-mode-only" alt="02 — system map"/>
 
-![Project ecosystem](assets/ecosystem.svg)
+<img src="assets/dark/ecosystem.svg#gh-dark-mode-only" alt="Project ecosystem"/>
+<img src="assets/ecosystem.svg#gh-light-mode-only" alt="Project ecosystem"/>
 
-![03 — projects](assets/s03.svg)
+<img src="assets/dark/s03.svg#gh-dark-mode-only" alt="03 — projects"/>
+<img src="assets/s03.svg#gh-light-mode-only" alt="03 — projects"/>
 
-![15 projects](assets/projects.svg)
+<img src="assets/dark/projects.svg#gh-dark-mode-only" alt="15 projects"/>
+<img src="assets/projects.svg#gh-light-mode-only" alt="15 projects"/>
 
-![04 — telemetry](assets/s04.svg)
+<img src="assets/dark/s04.svg#gh-dark-mode-only" alt="04 — telemetry"/>
+<img src="assets/s04.svg#gh-light-mode-only" alt="04 — telemetry"/>
 
-![Animated development telemetry](assets/telemetry.svg)
+<img src="assets/dark/telemetry.svg#gh-dark-mode-only" alt="Animated development telemetry"/>
+<img src="assets/telemetry.svg#gh-light-mode-only" alt="Animated development telemetry"/>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sharann-del&show_icons=true&hide_border=true&border_radius=0&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharann-del&show_icons=true&hide_border=true&border_radius=0&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000&ring_color=000000&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="Sharann's GitHub statistics"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharann-del&layout=compact&hide_border=true&border_radius=0&bg_color=00000000&title_color=ffffff&text_color=ffffff&langs_count=8"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharann-del&layout=compact&hide_border=true&border_radius=0&bg_color=00000000&title_color=000000&text_color=000000&langs_count=8" height="170" alt="Most-used GitHub languages"/>
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sharann-del&theme=github_dark#gh-dark-mode-only" height="170" alt="Sharann's GitHub statistics"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sharann-del&theme=github#gh-light-mode-only" height="170" alt="Sharann's GitHub statistics"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sharann-del&theme=github_dark#gh-dark-mode-only" height="170" alt="Most-used GitHub languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sharann-del&theme=github#gh-light-mode-only" height="170" alt="Most-used GitHub languages"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY#gh-dark-mode-only" width="97%" alt="GitHub contribution activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY#gh-light-mode-only" width="97%" alt="GitHub contribution activity"/>
 
 </div>
 
-![05 — the route](assets/s05.svg)
+<img src="assets/dark/s05.svg#gh-dark-mode-only" alt="05 — the route"/>
+<img src="assets/s05.svg#gh-light-mode-only" alt="05 — the route"/>
 
-![Development timeline](assets/timeline.svg)
+<img src="assets/dark/timeline.svg#gh-dark-mode-only" alt="Development timeline"/>
+<img src="assets/timeline.svg#gh-light-mode-only" alt="Development timeline"/>
 
-![Professional experience](assets/experience.svg)
+<img src="assets/dark/experience.svg#gh-dark-mode-only" alt="Professional experience"/>
+<img src="assets/experience.svg#gh-light-mode-only" alt="Professional experience"/>
 
-![06 — stack](assets/s06.svg)
+<img src="assets/dark/s06.svg#gh-dark-mode-only" alt="06 — stack"/>
+<img src="assets/s06.svg#gh-light-mode-only" alt="06 — stack"/>
 
-![Technical stack](assets/stack.svg)
+<img src="assets/dark/stack.svg#gh-dark-mode-only" alt="Technical stack"/>
+<img src="assets/stack.svg#gh-light-mode-only" alt="Technical stack"/>
 
-![Current status](assets/footer.svg)
+<img src="assets/dark/footer.svg#gh-dark-mode-only" alt="Current status"/>
+<img src="assets/footer.svg#gh-light-mode-only" alt="Current status"/>
 
-<!-- adaptive monochrome SVG system · motion respects prefers-reduced-motion -->
+<!-- GitHub app-theme selectors · pure black/white monochrome SVG system -->

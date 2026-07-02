@@ -13,6 +13,7 @@
     .r6{animation-delay:.30s}.r7{animation-delay:.35s}.r8{animation-delay:.40s}.r9{animation-delay:.45s}.r10{animation-delay:.50s}
     .r11{animation-delay:.55s}.r12{animation-delay:.60s}.r13{animation-delay:.65s}.r14{animation-delay:.70s}.r15{animation-delay:.75s}
     @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
+    :root { --ink:#000000; --paper:#FFFFFF; }
   </style>
 
   <g class="mono">
