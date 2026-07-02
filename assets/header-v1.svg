@@ -2,7 +2,7 @@
   <style>
     :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; }
     @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
-    .mono { font-family: "Inter", ui-sans-serif, system-ui, -apple-system, sans-serif; }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
     .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.4s cubic-bezier(.6,0,.2,1) forwards; }
     @keyframes draw { to { stroke-dashoffset: 0; } }
     .rise { opacity: 0; animation: rise .9s cubic-bezier(.2,.7,.2,1) forwards; }
@@ -17,6 +17,8 @@
       .draw,.rise,.fade,.rot { animation: none; }
       .draw{stroke-dashoffset:0} .rise,.fade{opacity:1} .rot{opacity:0} .rot.r1{opacity:1}
     }
+      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; }
+     (prefers-color-scheme: dark) { :root { --bone: #FFFFFF; --muted: #FFFFFF; --dim: #FFFFFF; --rule: #FFFFFF; --accent: #FFFFFF; --node-bg: #000000; --core-bg: #000000; } }
   </style>
 
   <line class="draw a1" x1="48" y1="58" x2="952" y2="58" stroke="var(--rule)" stroke-width="1"/>
@@ -26,18 +28,15 @@
   </g>
 
   <g class="rise a2">
-    <text fill="var(--bone)" class="mono" x="46" y="176" font-size="72" letter-spacing="-2">Sharann Manojkumar<tspan fill="var(--accent)">.</tspan></text>
+    <text fill="var(--bone)" class="mono" x="46" y="176" font-size="72" letter-spacing="-2">Sharann Manojkumar</text>
   </g>
   <g class="fade a3">
     <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">iOS &amp; Full-Stack Developer — Chennai, India.</text>
   </g>
 
   <g class="fade a4">
-    <text fill="var(--dim)" class="mono" x="48" y="274" font-size="12.5" letter-spacing="1">currently building  ▸</text>
-    <text fill="var(--accent)" class="mono rot r1" x="222" y="274" font-size="12.5" letter-spacing="1">kern — keyboard-driven personal data OS</text>
-    <text fill="var(--accent)" class="mono rot r2" x="222" y="274" font-size="12.5" letter-spacing="1">cosmos — an AI chatbot in your terminal</text>
-    <text fill="var(--accent)" class="mono rot r3" x="222" y="274" font-size="12.5" letter-spacing="1">landroid — drone imagery → land intelligence</text>
-    <text fill="var(--accent)" class="mono rot r4" x="222" y="274" font-size="12.5" letter-spacing="1">lobe — personal knowledge OS for the web</text>
+  <text fill="var(--dim)" class="mono" x="48" y="274" font-size="12.5" letter-spacing="1">focus  ▸</text>
+  <text fill="var(--accent)" class="mono" x="128" y="274" font-size="12.5" letter-spacing="1">iOS · full-stack systems · terminal interfaces · AI-integrated products</text>
   </g>
   <g class="fade a5">
     <text fill="var(--dim)" class="mono" x="48" y="300" font-size="12.5" letter-spacing="1">open to internships · freelance · collaboration</text>
