@@ -35,7 +35,7 @@
 
   <g class="fade a4">
   <text fill="var(--dim)" class="mono" x="48" y="274" font-size="12.5" letter-spacing="1">focus  ▸</text>
-  <text fill="var(--accent)" class="mono" x="128" y="274" font-size="12.5" letter-spacing="1">iOS · full-stack systems · terminal interfaces · AI-integrated products</text>
+  <text fill="var(--accent)" class="mono" x="128" y="274" font-size="12.5" letter-spacing="1">SDE · full-stack systems · terminal interfaces · AI-integrated products</text>
   </g>
   <g class="fade a5">
     <text fill="var(--dim)" class="mono" x="48" y="300" font-size="12.5" letter-spacing="1">open to internships · freelance · collaboration</text>
@@ -43,11 +43,11 @@
 
   <line class="draw a5" x1="48" y1="342" x2="952" y2="342" stroke="var(--rule)" stroke-width="1"/>
   <g class="fade a6">
-    <text fill="var(--muted)" class="mono" x="48" y="374" font-size="11.5" letter-spacing="3">IOS &amp; SWIFTUI</text>
+    <text fill="var(--muted)" class="mono" x="48" y="374" font-size="11.5" letter-spacing="3">SDE</text>
     <text fill="var(--accent)" class="mono" x="252" y="374" font-size="11.5">·</text>
     <text fill="var(--muted)" class="mono" x="282" y="374" font-size="11.5" letter-spacing="3">FULL-STACK SYSTEMS</text>
     <text fill="var(--accent)" class="mono" x="550" y="374" font-size="11.5">·</text>
     <text fill="var(--muted)" class="mono" x="580" y="374" font-size="11.5" letter-spacing="3">TERMINAL INTERFACES</text>
-    <text fill="var(--muted)" class="mono" x="952" y="374" font-size="11.5" letter-spacing="3" text-anchor="end">VIT — 2024 / 2028</text>
+    <text fill="var(--muted)" class="mono" x="952" y="374" font-size="11.5" letter-spacing="3" text-anchor="end">LPU — 2023/ 2027</text>
   </g>
 </svg>
