@@ -59,9 +59,21 @@
 
   <!-- profile counters — Karan's real stats -->
   <g>
-    <g class="rise n1"><text fill="var(--bone)" class="mono" x="720" y="118" font-size="44">3</text><text fill="var(--muted)" class="mono" x="770" y="112" font-size="10" letter-spacing="2.5">FEATURED PROJECTS</text></g>
-    <g class="rise n2"><text fill="var(--bone)" class="mono" x="720" y="178" font-size="44">400+</text><text fill="var(--muted)" class="mono" x="790" y="172" font-size="10" letter-spacing="2.5">LEETCODE PROBLEMS</text></g>
-    <g class="rise n3"><text fill="var(--bone)" class="mono" x="720" y="238" font-size="44">122</text><text fill="var(--muted)" class="mono" x="790" y="232" font-size="10" letter-spacing="2.5">DAY CODING STREAK</text></g>
-    <g class="rise n4"><text fill="var(--accent)" class="mono" x="718" y="298" font-size="44">∞</text><text fill="var(--muted)" class="mono" x="760" y="292" font-size="10" letter-spacing="2.5">TERMINAL TABS OPEN RIGHT NOW</text></g>
+    <g class="rise n1">
+      <text fill="var(--bone)" class="mono" x="720" y="108" font-size="34">3</text>
+      <text fill="var(--muted)" class="mono" x="720" y="124" font-size="9" letter-spacing="2">FEATURED PROJECTS</text>
+    </g>
+    <g class="rise n2">
+      <text fill="var(--bone)" class="mono" x="720" y="168" font-size="34">400+</text>
+      <text fill="var(--muted)" class="mono" x="720" y="184" font-size="9" letter-spacing="2">LEETCODE PROBLEMS</text>
+    </g>
+    <g class="rise n3">
+      <text fill="var(--bone)" class="mono" x="720" y="228" font-size="34">122</text>
+      <text fill="var(--muted)" class="mono" x="720" y="244" font-size="9" letter-spacing="2">DAY CODING STREAK</text>
+    </g>
+    <g class="rise n4">
+      <text fill="var(--accent)" class="mono" x="718" y="288" font-size="34">∞</text>
+      <text fill="var(--muted)" class="mono" x="720" y="304" font-size="9" letter-spacing="2">TERMINAL TABS OPEN</text>
+    </g>
   </g>
 </svg>
