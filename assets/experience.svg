@@ -13,29 +13,23 @@
   <line x1="120" y1="10" x2="120" y2="360" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
 
   <g class="rise a1">
-    <text class="mono" x="48" y="42"  font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
-    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">Ambian Strategy · Full-Stack Developer Intern · Chennai</text>
-    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">built ProposalOS — AI-powered RFP discovery &amp; response platform from scratch</text>
-    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">scraped 11+ procurement portals with AI fit-scoring · response time: days → two hours</text>
+    <text class="mono" x="48" y="42"  font-size="12" fill="var(--accent)" letter-spacing="2">2023 –</text>
+    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">Lovely Professional University · B.Tech CSE · Jalandhar</text>
+    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">CGPA: 7.81/10 · DSA, OOP, DBMS, CN, Operating Systems</text>
+    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">Full-Stack · Backend Architecture · AI Integration Track</text>
   </g>
 
   <g class="rise a2">
-    <text class="mono" x="48" y="138" font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
-    <text class="mono" x="136" y="138" font-size="15" fill="var(--bone)">VIT Chennai · Summer Research Intern (SRIP 2026) · Dr. Sandhya P</text>
-    <text class="mono" x="136" y="164" font-size="14" fill="var(--muted)">hallucination detection · confidence scoring → NER routing → Wikidata evidence retrieval</text>
-    <text class="mono" x="136" y="186" font-size="14" fill="var(--muted)">RoBERTa NLI contradiction detection · blockchain audit layer · research paper published</text>
+    <text class="mono" x="48" y="138" font-size="12" fill="var(--accent)" letter-spacing="2">2025</text>
+    <text class="mono" x="136" y="138" font-size="15" fill="var(--bone)">SkillStone · Data Structures &amp; Algorithms Training · Jun–Aug</text>
+    <text class="mono" x="136" y="164" font-size="14" fill="var(--muted)">2 months intensive: arrays, linked lists, stacks, queues, trees, graphs in C++</text>
+    <text class="mono" x="136" y="186" font-size="14" fill="var(--muted)">Greedy &amp; graph algorithms · time/space complexity analysis</text>
   </g>
 
   <g class="rise a3">
-    <text class="mono" x="48" y="234" font-size="12" fill="var(--accent)" letter-spacing="2">2025</text>
-    <text class="mono" x="136" y="234" font-size="15" fill="var(--bone)">GeoPacific Solutions · Billing Developer Intern · Chennai · Mar–Jul</text>
-    <text class="mono" x="136" y="260" font-size="14" fill="var(--muted)">JSONB PostgreSQL schema · JWT auth across admin / franchise / cashier roles</text>
-    <text class="mono" x="136" y="282" font-size="14" fill="var(--muted)">Node.js / Express APIs for invoice lifecycle · inventory updates · reporting endpoints</text>
-  </g>
-
-  <g class="rise a4">
-    <text class="mono" x="48" y="330" font-size="12" fill="var(--accent)" letter-spacing="2">2024 –</text>
-    <text class="mono" x="136" y="330" font-size="15" fill="var(--bone)">VIT Chennai · B.Tech Computer Science · Full-Stack &amp; iOS Track</text>
-    <text class="mono" x="136" y="356" font-size="14" fill="var(--muted)">iSpace Club — Web &amp; App Development department</text>
+    <text class="mono" x="48" y="234" font-size="12" fill="var(--accent)" letter-spacing="2">CERTS</text>
+    <text class="mono" x="136" y="234" font-size="15" fill="var(--bone)">AWS Cloud Practitioner Essentials Certification</text>
+    <text class="mono" x="136" y="260" font-size="14" fill="var(--muted)">IBM Certification — Fundamentals of AI Agents using RAG and LangChain</text>
+    <text class="mono" x="136" y="282" font-size="14" fill="var(--muted)">LeetCode: 400+ problems solved · 122-day streak · max streak 200 days</text>
   </g>
 </svg>

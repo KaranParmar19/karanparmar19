@@ -27,36 +27,36 @@
   <g class="m m1">
     <circle cx="100" cy="125" r="4" fill="var(--bone)"/>
     <line x1="100" y1="121" x2="100" y2="96" stroke="var(--rule)"/>
-    <text fill="var(--accent)" class="mono" x="100" y="74" font-size="11" letter-spacing="2" text-anchor="middle">2020</text>
-    <text fill="var(--bone)" class="mono" x="100" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">first commit</text>
+    <text fill="var(--accent)" class="mono" x="100" y="74" font-size="11" letter-spacing="2" text-anchor="middle">2023</text>
+    <text fill="var(--bone)" class="mono" x="100" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">LPU · first commit</text>
   </g>
 
   <g class="m m2">
     <circle cx="310" cy="125" r="4" fill="var(--bone)"/>
     <line x1="310" y1="129" x2="310" y2="154" stroke="var(--rule)"/>
     <text fill="var(--accent)" class="mono" x="310" y="172" font-size="11" letter-spacing="2" text-anchor="middle">2024</text>
-    <text fill="var(--bone)" class="mono" x="310" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">VIT Chennai · iSpace Club</text>
+    <text fill="var(--bone)" class="mono" x="310" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">Full-Stack dev journey begins</text>
   </g>
 
   <g class="m m3">
     <circle cx="520" cy="125" r="4" fill="var(--bone)"/>
     <line x1="520" y1="121" x2="520" y2="96" stroke="var(--rule)"/>
-    <text fill="var(--accent)" class="mono" x="520" y="74" font-size="11" letter-spacing="2" text-anchor="middle">2025</text>
-    <text fill="var(--bone)" class="mono" x="520" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">GeoPacific Solutions — billing platform</text>
+    <text fill="var(--accent)" class="mono" x="520" y="74" font-size="11" letter-spacing="2" text-anchor="middle">Jun'25</text>
+    <text fill="var(--bone)" class="mono" x="520" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">SkillStone DSA training</text>
   </g>
 
   <g class="m m4">
-    <circle cx="730" cy="125" r="4" fill="var(--bone)"/>
-    <line x1="730" y1="129" x2="730" y2="154" stroke="var(--rule)"/>
-    <text fill="var(--accent)" class="mono" x="730" y="172" font-size="11" letter-spacing="2" text-anchor="middle">2026</text>
-    <text fill="var(--bone)" class="mono" x="730" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">SRIP 2026 · hallucination detection</text>
+    <circle cx="700" cy="125" r="4" fill="var(--bone)"/>
+    <line x1="700" y1="129" x2="700" y2="154" stroke="var(--rule)"/>
+    <text fill="var(--accent)" class="mono" x="700" y="172" font-size="11" letter-spacing="2" text-anchor="middle">Mar'26</text>
+    <text fill="var(--bone)" class="mono" x="700" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">Lantern APM — live</text>
   </g>
 
   <g class="m m5">
     <circle cx="880" cy="125" r="4" fill="var(--bone)"/>
     <line x1="880" y1="121" x2="880" y2="96" stroke="var(--rule)"/>
-    <text fill="var(--accent)" class="mono" x="880" y="74" font-size="11" letter-spacing="2" text-anchor="middle">2026</text>
-    <text fill="var(--bone)" class="mono" x="880" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">Ambian Strategy — ProposalOS</text>
+    <text fill="var(--accent)" class="mono" x="880" y="74" font-size="11" letter-spacing="2" text-anchor="middle">Jan'26</text>
+    <text fill="var(--bone)" class="mono" x="880" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">Voxa collab workspace</text>
   </g>
 
   <g class="m m6">
@@ -64,12 +64,12 @@
     <circle class="pulse" cx="1060" cy="125" r="4.5" fill="var(--accent)"/>
     <line x1="1060" y1="129" x2="1060" y2="154" stroke="var(--rule)"/>
     <text fill="var(--accent)" class="mono" x="1060" y="172" font-size="11" letter-spacing="2" text-anchor="middle">NOW</text>
-    <text fill="var(--bone)" class="mono" x="1060" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">3rd yr CS · open to internships</text>
+    <text fill="var(--bone)" class="mono" x="1060" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">DevLens AI · open to work</text>
   </g>
 
   <g class="m m7">
     <circle cx="1152" cy="125" r="3" fill="var(--dim)"/>
-    <text fill="var(--dim)" class="mono" x="1152" y="105" font-size="10" letter-spacing="2" text-anchor="end">2028 →</text>
+    <text fill="var(--dim)" class="mono" x="1152" y="105" font-size="10" letter-spacing="2" text-anchor="end">2027 →</text>
     <text fill="var(--dim)" class="mono" x="1152" y="150" font-size="13" text-anchor="end">the interesting part</text>
   </g>
 </svg>

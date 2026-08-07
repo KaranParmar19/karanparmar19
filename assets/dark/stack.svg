@@ -14,23 +14,23 @@
   <line x1="138" y1="8" x2="138" y2="230" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
 
   <text class="mono rise a1" x="48" y="32"  font-size="12" fill="var(--muted)" letter-spacing="2">LANGUAGES</text>
-  <text class="mono rise a1" x="154" y="32"  font-size="15" fill="var(--bone)">Swift · TypeScript · JavaScript · Python · Dart · C++</text>
+  <text class="mono rise a1" x="154" y="32"  font-size="15" fill="var(--bone)">C/C++ · JavaScript · TypeScript · Python</text>
 
-  <text class="mono rise a2" x="48" y="64"  font-size="12" fill="var(--muted)" letter-spacing="2">MOBILE</text>
-  <text class="mono rise a2" x="154" y="64"  font-size="15" fill="var(--bone)">SwiftUI · WidgetKit · Core Data · Flutter</text>
+  <text class="mono rise a2" x="48" y="64"  font-size="12" fill="var(--muted)" letter-spacing="2">FRAMEWORKS</text>
+  <text class="mono rise a2" x="154" y="64"  font-size="15" fill="var(--bone)">React.js · Next.js · FastAPI · Express.js · LangChain · Tailwind CSS</text>
 
-  <text class="mono rise a3" x="48" y="96"  font-size="12" fill="var(--muted)" letter-spacing="2">WEB</text>
-  <text class="mono rise a3" x="154" y="96"  font-size="15" fill="var(--bone)">React · Next.js · Node.js · Express · Tailwind</text>
+  <text class="mono rise a3" x="48" y="96"  font-size="12" fill="var(--muted)" letter-spacing="2">BACKEND</text>
+  <text class="mono rise a3" x="154" y="96"  font-size="15" fill="var(--bone)">Celery · Redis · BullMQ · Socket.IO · WebSockets · WebRTC</text>
 
-  <text class="mono rise a4" x="48" y="128" font-size="12" fill="var(--muted)" letter-spacing="2">DATA</text>
-  <text class="mono rise a4" x="154" y="128" font-size="15" fill="var(--bone)">PostgreSQL · Supabase · FastAPI · PostGIS · JSONB</text>
+  <text class="mono rise a4" x="48" y="128" font-size="12" fill="var(--muted)" letter-spacing="2">DATABASES</text>
+  <text class="mono rise a4" x="154" y="128" font-size="15" fill="var(--bone)">MongoDB · MySQL · PostgreSQL</text>
 
-  <text class="mono rise a5" x="48" y="160" font-size="12" fill="var(--muted)" letter-spacing="2">AI</text>
-  <text class="mono rise a5" x="154" y="160" font-size="15" fill="var(--bone)">MCP servers · OpenRouter · OpenAI API · AI-native architectures</text>
+  <text class="mono rise a5" x="48" y="160" font-size="12" fill="var(--muted)" letter-spacing="2">CLOUD</text>
+  <text class="mono rise a5" x="154" y="160" font-size="15" fill="var(--bone)">AWS · Docker · CI/CD · GitHub Actions</text>
 
-  <text class="mono rise a6" x="48" y="192" font-size="12" fill="var(--muted)" letter-spacing="2">TERMINAL</text>
-  <text class="mono rise a6" x="154" y="192" font-size="15" fill="var(--bone)">TUI / CLI · Node.js blessed · keyboard-driven workflows</text>
+  <text class="mono rise a6" x="48" y="192" font-size="12" fill="var(--muted)" letter-spacing="2">AI / ML</text>
+  <text class="mono rise a6" x="154" y="192" font-size="15" fill="var(--bone)">LangChain · RAG · LLM Agents · IBM AI Certification</text>
 
   <text class="mono rise a7" x="48" y="224" font-size="12" fill="var(--muted)" letter-spacing="2">TOOLING</text>
-  <text class="mono rise a7" x="154" y="224" font-size="15" fill="var(--bone)">Git · Docker · Figma · Notion · Postman · Neovim</text>
+  <text class="mono rise a7" x="154" y="224" font-size="15" fill="var(--bone)">Git · Docker · Postman · GitHub Actions</text>
 </svg>
