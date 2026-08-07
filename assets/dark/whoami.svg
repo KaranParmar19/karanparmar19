@@ -11,18 +11,18 @@
   :root { --bone:#FFFFFF; --muted:#FFFFFF; --dim:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; --node-bg:#000000; --core-bg:#000000; --ghost:#FFFFFF; --ink:#FFFFFF; --paper:#000000; --ghost:#FFFFFF; }
 </style>
 
-  <text class="mono rise a1" x="48" y="32" font-size="16" fill="var(--bone)">third-year CS student at Vellore Institute of Technology, Chennai.</text>
-  <text class="mono rise a2" x="48" y="60" font-size="16" fill="var(--bone)">building across the full stack — SwiftUI · React · PostgreSQL · Node.js · CLI tooling.</text>
+  <text class="mono rise a1" x="48" y="32" font-size="16" fill="var(--bone)">CS student at Lovely Professional University.</text>
+  <text class="mono rise a2" x="48" y="60" font-size="16" fill="var(--bone)">building across the full stack — React · Node.js · Express · MongoDB · PostgreSQL.</text>
   <text class="mono rise a3" x="48" y="88" font-size="15" fill="var(--muted)">drawn to projects where design meets data. clean architecture and user experience in equal measure.</text>
 
   <line class="rise a4" x1="48" y1="116" x2="952" y2="116" stroke="var(--rule)" stroke-width="1" opacity=".5"/>
 
   <text class="mono rise a4" x="48"  y="148" font-size="11" fill="var(--muted)" letter-spacing="2.5">FOCUS</text>
-  <text class="mono rise a4" x="154" y="148" font-size="15" fill="var(--bone)">iOS &amp; Mobile · Full-Stack Systems · Terminal UI / CLI · AI-integrated architectures</text>
+  <text class="mono rise a4" x="154" y="148" font-size="15" fill="var(--bone)">Full-Stack Systems · Backend Architecture · Web Development · AI Integrations</text>
 
   <text class="mono rise a5" x="48"  y="182" font-size="11" fill="var(--muted)" letter-spacing="2.5">STATUS</text>
   <text class="mono rise a5" x="154" y="182" font-size="15" fill="var(--accent)">open to internships · freelance · collaboration</text>
 
-  <text class="mono rise a6" x="48"  y="216" font-size="11" fill="var(--muted)" letter-spacing="2.5">CLUBS</text>
-  <text class="mono rise a6" x="154" y="216" font-size="15" fill="var(--bone)">iSpace Club — Web &amp; App Development department</text>
+  <text class="mono rise a6" x="48"  y="216" font-size="11" fill="var(--muted)" letter-spacing="2.5">COMMUNITY</text>
+  <text class="mono rise a6" x="154" y="216" font-size="15" fill="var(--bone)">Developer &amp; Open Source Communities</text>
 </svg>
