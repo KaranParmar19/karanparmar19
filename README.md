@@ -2,7 +2,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg?v=11"/><img src="assets/header-v1.svg?v=11" alt="Karan Parmar"/></picture>
 
-<a href="https://karan-portfolio-v38j.onrender.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square" alt="Portfolio"/></picture></a>
+<a href="https://karanporfolio.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square" alt="Portfolio"/></picture></a>
 <a href="https://github.com/KaranParmar19/karanparmar19/blob/main/Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RESUME-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/RESUME-ffffff?style=flat-square" alt="Resume"/></picture></a>
 <a href="https://leetcode.com/u/karan_parmar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LEETCODE-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/LEETCODE-ffffff?style=flat-square" alt="LeetCode"/></picture></a>
 <a href="https://www.linkedin.com/in/karan-parmar-280991274/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square" alt="LinkedIn"/></picture></a>
