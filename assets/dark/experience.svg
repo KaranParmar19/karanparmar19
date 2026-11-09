@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 370" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Experience — Ambian Strategy, VIT SRIP, GeoPacific Solutions, VIT Chennai">
+<svg viewBox="0 0 1000 370" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Education &amp; Experience — Lovely Professional University, SkillStone DSA, AWS &amp; IBM Certifications">
   <style>
     :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; }
     @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
@@ -17,7 +17,7 @@
     <text class="mono" x="48" y="42"  font-size="12" fill="var(--accent)" letter-spacing="2">2023 –</text>
     <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">Lovely Professional University · B.Tech CSE · Jalandhar</text>
     <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">CGPA: 7.81/10 · DSA, OOP, DBMS, CN, Operating Systems</text>
-    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">Full-Stack · Backend Architecture · AI Integration Track</text>
+    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">AI Full-Stack · Distributed Backends · Agentic Systems Track</text>
   </g>
 
   <g class="rise a2">

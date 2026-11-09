@@ -22,13 +22,13 @@
   <text class="mono rise a3" x="154" y="96"  font-size="15" fill="var(--bone)">Celery · Redis · BullMQ · Socket.IO · WebSockets · WebRTC</text>
 
   <text class="mono rise a4" x="48" y="128" font-size="12" fill="var(--muted)" letter-spacing="2">DATABASES</text>
-  <text class="mono rise a4" x="154" y="128" font-size="15" fill="var(--bone)">MongoDB · MySQL · PostgreSQL</text>
+  <text class="mono rise a4" x="154" y="128" font-size="15" fill="var(--bone)">PostgreSQL · pgvector · MongoDB · Redis · MySQL</text>
 
   <text class="mono rise a5" x="48" y="160" font-size="12" fill="var(--muted)" letter-spacing="2">CLOUD</text>
   <text class="mono rise a5" x="154" y="160" font-size="15" fill="var(--bone)">AWS · Docker · CI/CD · GitHub Actions</text>
 
   <text class="mono rise a6" x="48" y="192" font-size="12" fill="var(--muted)" letter-spacing="2">AI / ML</text>
-  <text class="mono rise a6" x="154" y="192" font-size="15" fill="var(--bone)">LangChain · RAG · LLM Agents · IBM AI Certification</text>
+  <text class="mono rise a6" x="154" y="192" font-size="15" fill="var(--bone)">LangChain · RAG Pipelines · LLM Agents · Tree-sitter AST · IBM Cert</text>
 
   <text class="mono rise a7" x="48" y="224" font-size="12" fill="var(--muted)" letter-spacing="2">TOOLING</text>
   <text class="mono rise a7" x="154" y="224" font-size="15" fill="var(--bone)">Git · Docker · Postman · GitHub Actions</text>

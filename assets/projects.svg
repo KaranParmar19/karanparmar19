@@ -21,7 +21,7 @@
       <text class="copy" x="48" y="65">with distributed task queuing, retry logic, and rate-limit handling across parallel workers, backed by PostgreSQL.</text>
       <text class="copy" x="48" y="81">AST-aware semantic chunker for Python, JS, TS extracting 85% of code symbols; LangChain agents over knowledge graph</text>
       <text class="copy" x="48" y="97">grounding LLM responses in parsed code data; hallucination-free NL queries streamed via WebSockets to TypeScript dashboard.</text>
-      <text class="meta" x="48" y="116">FASTAPI · LANGCHAIN · RAG · CELERY · REDIS · POSTGRESQL · WEBSOCKETS · TYPESCRIPT</text>
+      <text class="meta" x="48" y="116">FASTAPI · TREE-SITTER · LANGCHAIN · RAG · CELERY · REDIS · POSTGRESQL · TYPESCRIPT</text>
       <line class="rule" x1="48" y1="130" x2="952" y2="130"/>
     </g>
     <g class="row r2" transform="translate(0 160)">
@@ -34,7 +34,7 @@
     </g>
     <g class="row r3" transform="translate(0 290)">
       <text class="title" x="48" y="24">03 / VOXA — Real-Time Collaborative Workspace</text>
-      <text class="copy" x="48" y="49">Full-stack real-time collaboration platform with infinite whiteboard (Fabric.js) and integrated P2P voice via WebRTC.</text>
+      <text class="copy" x="48" y="49">Real-time collaborative workspace platform with infinite whiteboard (Fabric.js) and integrated P2P voice via WebRTC.</text>
       <text class="copy" x="48" y="65">Decoupled heavy canvas state from React component state, eliminating unnecessary re-renders during high-frequency drawing.</text>
       <text class="copy" x="48" y="81">Secure REST API and WebRTC signaling server with Express/Node.js; Google OAuth + JWT auth for MongoDB workspaces.</text>
       <text class="meta" x="48" y="100">MERN · WEBRTC · FABRIC.JS · SOCKET.IO · JWT · GOOGLE OAUTH · MONGODB</text>

@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Timeline: 2020 first commit, 2024 VIT Chennai and iSpace Club, 2025 GeoPacific internship, 2026 SRIP research and Ambian Strategy, now open to work">
+<svg viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Timeline: 2023 LPU first commit, 2024 AI &amp; Full-Stack journey, 2025 SkillStone DSA training, 2026 Voxa &amp; Lantern APM, now DevLens AI &amp; open to work">
   <style>
     :root { --bone: #444444; --muted: #888888; --dim: #AAAAAA; --rule: #C0C0C0; --accent: #555555; }
     @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --muted: #777777; --dim: #666666; --rule: #444444; --accent: #AAAAAA; } }
@@ -36,7 +36,7 @@
     <circle cx="310" cy="125" r="4" fill="var(--bone)"/>
     <line x1="310" y1="129" x2="310" y2="154" stroke="var(--rule)"/>
     <text fill="var(--accent)" class="mono" x="310" y="172" font-size="11" letter-spacing="2" text-anchor="middle">2024</text>
-    <text fill="var(--bone)" class="mono" x="310" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">Full-Stack dev journey begins</text>
+    <text fill="var(--bone)" class="mono" x="310" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">AI &amp; Full-Stack dev journey begins</text>
   </g>
 
   <g class="m m3">

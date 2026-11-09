@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Karan Parmar — AI Full-Stack Developer">
+<svg viewBox="0 0 1000 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Karan Parmar — AI Full Stack Developer">
   <style>
     :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; }
     @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
@@ -30,12 +30,12 @@
     <text fill="var(--bone)" class="mono" x="46" y="176" font-size="72" letter-spacing="-2">Karan Parmar</text>
   </g>
   <g class="fade a3">
-    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">Full-Stack Developer.</text>
+    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">AI Full Stack Developer.</text>
   </g>
 
   <g class="fade a4">
   <text fill="var(--dim)" class="mono" x="48" y="274" font-size="12.5" letter-spacing="1">focus  ▸</text>
-  <text fill="var(--accent)" class="mono" x="128" y="274" font-size="12.5" letter-spacing="1">SDE · full-stack systems · AI-integrated products</text>
+  <text fill="var(--accent)" class="mono" x="128" y="274" font-size="12.5" letter-spacing="1">AI systems · full-stack architectures · agentic products</text>
   </g>
   <g class="fade a5">
     <text fill="var(--dim)" class="mono" x="48" y="300" font-size="12.5" letter-spacing="1">open to internships · freelance · collaboration</text>
@@ -43,10 +43,10 @@
 
   <line class="draw a5" x1="48" y1="342" x2="952" y2="342" stroke="var(--rule)" stroke-width="1"/>
   <g class="fade a6">
-    <text fill="var(--muted)" class="mono" x="48" y="374" font-size="11.5" letter-spacing="3">SDE</text>
+    <text fill="var(--muted)" class="mono" x="48" y="374" font-size="11.5" letter-spacing="3">AI FULL-STACK</text>
     <text fill="var(--accent)" class="mono" x="252" y="374" font-size="11.5">·</text>
-    <text fill="var(--muted)" class="mono" x="282" y="374" font-size="11.5" letter-spacing="3">FULL-STACK SYSTEMS</text>
+    <text fill="var(--muted)" class="mono" x="282" y="374" font-size="11.5" letter-spacing="3">DISTRIBUTED SYSTEMS</text>
     <text fill="var(--accent)" class="mono" x="550" y="374" font-size="11.5">·</text>
-    <text fill="var(--muted)" class="mono" x="952" y="374" font-size="11.5" letter-spacing="3" text-anchor="end">LPU — 2023/ 2027</text>
+    <text fill="var(--muted)" class="mono" x="952" y="374" font-size="11.5" letter-spacing="3" text-anchor="end">LPU — 2023 / 2027</text>
   </g>
 </svg>
